@@ -1,0 +1,200 @@
+Hello.
+Git hub Profile: https://github.com/osol-myth/
+Personal Website: https://oscaraolica.com
+
+I have extensive experience with building website & app using React, Bootstrap, SCSS, React Router, Laravel, CI, Angular.
+I used to make the convention of the project while working in a team.
+I have a deep understanding of react-redux, action, store, reducer, redux-thunk, redux-saga as well as more tricks that determines the best way to integrate optimized REACT.
+Additionally, I am familiar with react hook, context api and I can implement certain design patterns on new or existing web services.
+I am also proficient with GraphQL to make dummy API calls simulating interaction with a backend.
+I have proficiency with
+- HTML, CSS, Bootstrap, jQuery
+- Javascript, ECMAScript, Typescript
+- React, Redux, React Hook, CRA
+- Apollo GraphQL, Next.js
+- Node, Nest.js, Express
+- Heroku, Netlify, Docker
+
+I developed the MVP version for Biometricvision dashboard site(SaaS) using React and launched the product version successfully, its live now! 
+The design was provided in Figma and I have integrated many kinds of services for the needs of project.
+- authO for SSO
+- intercom for help center and user management
+- servicebot for subscription
+- and more
+
+Thanks you,
+Oscar
+
+Hi, I have 8 years of experience in fronted development, worked in many technologies like React.js, Angular, Vue.js, Express.js, Sass, CSS3, Javascript, Node.js, Chart.js, D3.js, ECharts etc.
+I have worked on more than 20 projects till now.
+
+Hello, please take a look at previous works,
+https://www.mwll.co.uk/
+http://www.brandspay.com/
+www.thedenimlab.com
+https://affinitymedwear.com/
+https://www.carparts.com/(React.js, PHP).
+Through the development of whole project from scratch, My experience has become fulfilled with perfect usage of SASS,SCSS,lodash,graphQL,HOC and so on. 
+I am also mastered Redux for state management of the mutable aps which are syncing with Rest API.
+I have high attention to detail and deeply care about pixel-perfect, excellent UX/UI, and performance.
+I am familiar with Node js program language including the usage of babel, lodash, socket.io, apiai packages and the process of building RESTful API,etc. 
+As Mongodb is a non-relational database, developers need to think in a recursive way and concentrate on designing database structure.
+If your project is a major one, I think it is important to design a database efficiently.
+On the basis of requirments, I can estimate minimum time and make a bone for project as soon as possible.  
+I will do my best to provide high-quality work if you hire myself.
+I am looking forward to hearing from you soon.
+Best Regards
+
+
+I am Andrei, a professional Full-Stack developer with 6 years of developing experience.
+
+I am a very passionate, sensitive and highly motivated web developer.
+
+I have high attention to the details, correct architecture, and performance of UI/UX development.
+
+My expertise includes in React, Vue.js, Ember.js, three.js, Node.js and so on.
+
+Apart from this, I am familiar with backend program languages such as PHP, Python, and ASP.net. I am skilled at third party API integrations as well.
+
+I take pride myself in working hard, delivering the best result to the clients on time.
+
+I believe that my deliverable will satisfy all of my clients.
+
+Best regards.
+
+nodejs -docker, redis,heroku,postgres
+
+
+Hello, I am John Paipa.
+I have ever used  fetch function for node.js and javascript in order to make hooli chatbot.
+In my opinion, format of the authorization key is not proper.
+In my case, no respone problem has been resolved by making async function to sync one applying await.
+Or maybe overiding fetch functions could be problem.
+I am confident to resolve such bug less that a day.
+please hire me to fix those problem for you.
+Best regards.
+
+
+
+Hello,
+Api integration is my favourite web developing field.
+I am fully developed chat bot, skype bot with apiai integration with nodejs.
+Using Geocoding api key is similar to one of getting apiai key in dialogflow in terms of taking client token.
+I have a deep understanding of react-redux, action, store, reducer, redux-thunk, redux-saga as well as more tricks that determines the best way to integrate optimized REACT.
+Additionally, I am familiar with react hook, context api and I can implement certain design patterns on new or existing web services.
+I am also proficient with GraphQL to make dummy API calls simulating interaction with a backend.
+I have proficiency with
+- HTML, CSS, Bootstrap, jQuery
+- Javascript, ECMAScript, Typescript
+- React, Redux, React Hook, CRA
+- Apollo GraphQL, Next.js
+- Node, Nest.js, Express
+- Heroku, Netlify, Docker
+
+I developed the MVP version for Biometricvision dashboard site(SaaS) using React and launched the product version successfully, its live now! 
+The design was provided in Figma and I have integrated many kinds of services for the needs of project.
+- authO for SSO
+- intercom for help center and user management
+- servicebot for subscription
+- and more
+
+Thank you.
+
+
+Hi there,
+
+I just read your posting. It sounds like you need an expert in wordpress to advise you on everything from the content to the overall strategy.
+
+I have a background in developing wordpress web integration from scratch and have been doing this for 5 years. Especially wordpress theme customization,PHP is what I specialize in.
+
+These are ones I have ever developed with PHP:
+
+https://www.hotboxsignup.com/
+http://www.cfmqualityconstruction.com/
+http://itpreceptor.com/Relaxedlogistics/
+http://boweninmotion.net/
+
+I am young and full of energy, I would be ready to devote myself for you from this moment. 
+
+If any of the above sounds interesting, let me know when you’d be available to talk this week.
+
+Best regards,
+
+John paipa.
+
+
+Hi! Just read your posting. Sounds like you need an Jquery correction to advise you on a few things… from getting 3D model and strategy, to what you should offer to redirect to second page  in the first place.
+
+I have a background in VRM Loader and have been doing this for 3 years, including for some other subscription/membership developments.
+
+I can work with you to come up with a great strategy and high-converting 3D model integration to turn your prospects into real one. And I can help you get more 3D models integration going into future, too.
+
+If any of the above sounds interesting, let me know when you’d be available to talk this week.
+
+I am also avaliable to finish it within a day.
+
+Best regards,
+
+John paipa.
+
+
+Hi! Just read your posting. Sounds like you need an Jquery correction to advise you on a few things.
+
+I have a background in jQuery and have been doing this for 3 years, including for some other subscription/membership developments.
+
+If any of the above sounds interesting, let me know when you’d be available to talk this week.
+
+I am also avaliable to finish it within a few hours.
+
+Best regards,
+
+John paipa.
+
+Hello,
+How are you.
+I am experienced in reversing especially smali to java.
+I have developed android native based on java.
+please contact me.
+I will do it without fail.
+Best regards.
+
+
+Hi! Just read your posting. Sounds like you need an site which can reserve foods for deliever and introduction to advise you on a few things.
+
+I have a background in Nodejs,Python,Vuejs and have been doing this for 3 years, including for some other subscription/membership developments.
+
+I have developed such ubersites which deliever foods to customers by emalis or phone nums.
+
+this is the site I made:
+
+https://www.ubereats.com/
+
+This site contains various kinds of foods info and deliever function for customers.
+
+If any of the above sounds interesting, let me know when you’d be available to talk this week.
+
+I am also avaliable to finish it within a few hours.
+
+Best regards,
+
+John paipa.
+
+
+I love clean code, pixel-perfect and my client's 100% satisfaction best.
+Dear Client. How are you?
+Your post caught my eyes so read it carefully. And I'm really interested and even excited about your project because your required skills really fit me.
+I dare say I'm the best match for your project and I can do it perfectly.
+To introduce myself, I'm a senior fullstack dev with over 11 years experience and my best skill is JS frameworks such as MERN/MEAN/MEVN. And I really really have much experience in third-party services such as AWS(lambda, dynamodb, s3...), firebase(social auth, push notification, real-time database), google maps and so on.. You know php/html/css/js are basic skills for a web dev and CI/Laravel is also what I'm very familiar with.
+No need to talk much, right?
+Let me show you some of my past works and want your advice.
+- https://modifi.com (nodejs, React, bootstrap, mysql, material 2.0)
+- https://boostr.com (angular, angular-material 2.0)
+- https://updated-card-editor.herokuapp.com/ (Canvas + Typescript)
+- https://firelux.io/ (Bootstrap, Laravel, mysql)
+- https://floating-wave-22382.herokuapp.com/product_list.html (Pixel-perfect static html/css/js)
+- https://www.gamefront.com (&Vue 2.5.7)
+
+I'm waiting for your kind reply here.
+Thanks.
+
+

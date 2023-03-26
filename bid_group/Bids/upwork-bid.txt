@@ -1,0 +1,121 @@
+Hi there,
+
+I would love to work with you and help you develop your website. If you need high quality and in-time delivery at an affordable price, I am the right developer for you.
+
+As you can see in my Upwork profile, I have 5 years of total experience and more than 4 years with JS. I have developed dozens of projects with React/Node, including ibos.io, skeletonleaf.com.au and more. Now I'm available full time and can start immediately.
+
+My rate is only $50 for projects like this one. I will deliver my work every day, you can check and review my work every day if you are interested. If this aligns with what you need, can we set up a time to discuss more further for this project?
+
+Please check some of my recent work.
+https:///www.ibos.io
+https://www.easytocheck.com
+https://www.skeletonleaf.com.au
+
+Your Invitation over a private chat would be highly appreciated.
+
+Thanks,
+Chien Minh
+
+https://www.rappi.com.co/ (Next.js)
+https://deliveroo.es/en/ (Next.js)
+https://buscopueblo.com/ (Next.js)
+
+---react optimization questions-----
+Yes. In my previous project, I resolved React Website Speed Optimization.
+There are several techniques to optimize React app.
+They are: 
+-Function component and pure component
+-Using production mode in Webpack
+-Using the immutable data structure.
+-Using React.Fragments to avoid HTML elements.
+-Avoid Inline Function definition in the Render function.
+-Avoid using Index as Key for map.
+-Avoid Async Initialization in componentWillMount()
+...
+Figma: https://www.figma.com/file/BfpieHZXcGRwiBpJcLhDoe/Pabau?node-id=0%3A1
+Storybook: https://ux.pabau.com
+Frontend: https://prelive-crm.new.pabau.com 
+API: https://backend.new.pabau.com
+Storybook:
+https://ux.pabau.com
+FIGMA:
+https://www.figma.com/file/BfpieHZXcGRwiBpJcLhDoe/Pabau?node-id=0%3A1
+Presentation:
+https://docs.google.com/presentation/d/1QTnyal0VqCcvP1kO45iOYhFgZpkldlxe4TgYJ6kYMUQ/edit?usp=sharing
+
+---
+Berin Bytes
+
+Hi there,
+
+I would love to work with you and help you develop marketplace. If you need high quality and in-time delivery at an affordable price, I am the right developer for you.
+
+As you can see in my Upwork profile, I have 5 years of total experience and more than 4 years with JS. In this point, I recommend you React, Vue and Laravel. I have developed dozens of projects with React/Node, including ibos.io, skeletonleaf.com.au and more. Furthermore I have worked with marketplace and ecommerce site before. Now I'm available full time and can start immediately.
+
+My rate is only $2000 and I can finish work less than 40 days and we can discuss more further based on your project. I will deliver my work every day, you can check and review my work every day if you are interested. If this aligns with what you need, can we set up a time to discuss more further for this project?
+
+Please check some of my recent work.
+https:///www.ibos.io
+https://www.easytocheck.com
+https://www.skeletonleaf.com.au
+
+Your Invitation over a private chat would be highly appreciated.
+
+Thanks,
+Chien Minh
+
+
+
+------
+Hi, there,
+
+I would love to work with you and support you develop Linux/Unix. If you need high quality and in-time delivery at an affordable price, I am the right developer for you.
+
+I am a professional software engineer and Linux expert with 7+ years of experience in development and research so I have rich technological knowledge about Linux kernel, I have developed dozens of programs such as PCI kernel drivers, dynamic link libraries and utilities using GNU C, glib C. I also can manage various servers in Ubuntu, CentOS, Fedora, Suse and so on and I also participated in Embedded Linux kernel.
+
+I love Linux and my rate is only $40/h for you.  If this aligns with what you need, can we set up a time to discuss more further for this project?
+
+Your Invitation over a private chat would be highly appreciated.
+
+Thanks,
+Chien Minh
+
+-----
+
+Hi there,
+
+I would love to work with you and help you develop your website. If you need high quality and in-time delivery at an affordable price, I am the right developer for you.
+
+As you can see in my Upwork profile, I have 5 years of total experience and more than 4 years with JS. I have developed dozens of projects with Vue/Nuxt.  Now I'm available full time and can start immediately.
+
+My rate is only $19/h for projects like this one. I will deliver my work every day, you can check and review my work every day if you are interested. If this aligns with what you need, can we set up a time to discuss more further for this project?
+
+Please check some of my recent work.
+https://wizven.com
+https://krishnawatch.com/
+https://thehotmeal.com/
+
+Your Invitation over a private chat would be highly appreciated.
+
+Thanks,
+Chien Minh
+
+----dashboard
+Hi there,
+
+I would love to work with you and help you buildyour dashboard. If you need high quality and in-time delivery at an affordable price, I am the right developer for you.
+
+As you can see in my Upwork profile, I have 5 years of total experience and more than 4 years with JS. I have developed dozens of projects especially in Dashboard with React, including ibos.io, skeletonleaf.com.au and more. Now I'm available full time and can start immediately.
+
+My rate is only $19 per hour for projects like this one. I will deliver my work every day, you can check and review my work every day if you are interested. If this aligns with what you need, can we set up a time to discuss more further for this project?
+
+Please check some of my recent work.
+https:///www.ibos.io
+https://www.easytocheck.com
+https://www.skeletonleaf.com.au
+
+Your Invitation over a private chat would be highly appreciated.
+
+Thanks,
+Chien Minh
+

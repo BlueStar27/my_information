@@ -1,0 +1,49 @@
+------design & other------------
+Dear client,
+Thank you for your job posting.
+I  feel that I am a potentailly right suited candidate for your website. Having more than 5 years experience in fullstackjs: Mern/Mean/Mevn, React+laravel, python, I can finish your project with in due date and budget. 
+
+I have had a lot of golden skills, know-hows in the following
+- React, Vue, Angular, Php, Laravel, Python, Node.js
+- Html5/SASS/Bootstrap/Tailwindcss/Javascript/Responsive web design friendly
+- Fimga, PSD to html, landing page
+
+I will never let you down provided that you and me build a good rapport.
+Wish to be part of your success with my own knowledge and error prone code base.
+Thanks for your consideration.
+Yurii.
+
+-----------
+Dear Client,
+
+I'm Yurii and I'm a full stack developer.
+
+Innovative and goal-oriented person with 3+ years of web frontend development experience such as RoR, MERM/MEAN/MEVN, React+Laravel, React+Django.
+
+And I used MySQL MongoDB as database.
+
+Since 2018, we have developed PC apps for the web using C++ and Java sockets.
+I have been using Qt to develop mobile apps and PC apps since 2019.
+
+Here is my technique.
+- React, Angular, Nodejs, redux,
+- Ruby, PHP, Laravel, CI, Python, Django
+- MySQL, MongoDB
+-Java, C++
+- Bootstrap, HTML5, JavaScript, Responsive Web Design.
+
+I would love to work with you and sincerely hope that you will contribute in some small way to your great business.
+
+Thanks for reading my inexperienced article.
+-------one --------
+Dear client,
+Thank you for your job posting.
+-Full-stack software engineer with proven experience helping companies create and maintain a better code base for reusability.
+- Experience in driving projects forward as a senior developer, facilitating projects from concept to product launch.
+- Over 4 years of experience in working in a fast-paced, high-tech environment.
+-Hands-on experience in developing full stack applications using React, React Native, Django, and Node JS
+please let me know if you have any questions and I will be happy for trying to answer all of your technical(skills, portfolio, etc) and untechnical questions.
+Thank you for your time.
+best regards
+Yurii.
+------------------

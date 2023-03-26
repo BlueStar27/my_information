@@ -1,0 +1,118 @@
+Greetings
+I am a frontend developer who has over 7 years of web development experiences.
+For last 5 years, I have been focusing on reactjs and now I have perfect understanding of react.js including hooks, contexts, providers.
+I always use react hooks while developing and love to create custom hooks to reduce unnecessary re-rendering and clean code.
+I am also good at architecture of pure react and next.js project and good at typescript, rest api and graphql.
+
+Please get in touch with me to discuss in detail.
+
+Thanks beforehand,
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~********************************************
+
+I am a web solution designer. I am a Creative Thinker and a Mentor. I held various roles in the Technology, Product development and Cloud-ready and cost-optimized deployments part of the business. Perseverance, Customer First approach together with design thinking are my core values. I am passionate about building and new products and constantly looking for a better way of doing things.
+
+CAREER HIGHLIGHTS:
+I have been a core developer for a couple of startups that went on to million dollars startup. I have helped startups with cloud optimization to bring down cloud costs by 70%. I have built products from thought to million-dollar startups.
+I have brought teams together to resolve high impact customer issues and drove them in the right direction to explore alternatives.
+
+Why Am I Different?
+I can deliver the core message of my ideas clearly and concisely. I am passionate about listening to creative ideas and turn those insights into workable and scalable products that generate millions of revenue for the company. I am eager to learn new things and apply them immediately. I am bold and straightforward in getting my point across.
+
+Full-Stack Developer with 8 + years of experience
+
+Extensive Experience of working in
+
+- SCRUM teams
+- GIT/SVN
+- JIRA/Redmine
+- Node.JS backends
+- Angular Js
+- React
+- Redis
+- socket-io
+- Apache Solr
+- MongoDB
+- Express Js
+- AWS
+- Cloud Cost Optimization
+- Google Adwords Api
+
+Certifications: AWS certified solution architect - Associate
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~***********************************
+
+Hello, I'm Kostia, Senior JavaScript Developer.
+I have 8 years of experience coding in the Web Development area my LinkedIn profile (https://www.linkedin.com/). I have a magister's degree in Engineering.
+I'm experienced in clear, structured pixel-perfect code, have 4 years in ReactJS + ReduxJS development.
+I'm using Eslint AirBnB, BEM methodology, and SOLID principles.
+My portfolio counts more than a hundred projects over the world.
+
+It would be nice to have a call to share my expertise with you and consult with questions you have.
+After this, you can choose my candidacy to continue working on your project.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~****************************************************
+
+Hi, I have gone through your job requirements and found that you need an expert React.js developer. After understanding your requirement, I assure you I will give you the best you are looking.
+
+I have more than 5 years of experience in web development. I have completed many web-based development projects using MEAN and LAMP stack.
+
+Skill Set -
+
+- Developing new user-facing features using React.js/Angluar/Nest.js
+- Building reusable components and front-end libraries for future use
+- Translating designs and wireframes into high quality code
+- Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+- Integration of user-facing elements with server side logic
+- Writing reusable, testable, and efficient code
+- Design and implementation of low-latency, high-availability, and performant applications
+- Implementation of security and data protection
+- Integration of data storage solutions
+
+Here is the most recent work done -
+
+https://goredemo.com 
+https://www.autobyoffer.com 
+https://www.garrettpopcorn.com 
+
+Javascript tech stack - React.JS, Vue.js, Next.js, Nuxt.js, Javascript, Typescript, MEAN Stack, Angular.JS, Node.JS, Backbone, Express.JS, React-Native, Flutter 
+Database - MySQL, DynamoDB, MongoDB, PostgreSQL, GraphQL
+Amazon Web Services - Amazon EC2, S3, SES, SNS, CloudFront, Swagger, Loadbalancing
+DevOps - Azure, Docker
+JavaScript test - Jest
+Scrum - Jira, Trello
+I work in your time zone with availability over the mail and phone so communication will never be a problem.
+
+Looking forward.
+Thank you
+James
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**********************************************
+
+I have quite a good experience with Reactjs. Understanding all the logic and the lifecycle of React makes me comfortable in developing applications in Reactjs.
+
+Besides, I have a good understanding of Javascript ES6 features which is mostly used on React and I wanted to let you know I'm capable of handling any React code because I have from experience and intensive study acquired a deeper insight and understanding of how React works under the hood.
+
+Before I dived into Reactjs I had a good foundation of javascript and had developed many applications with it, including javascript games, which led me to be super comfortable with the language.
+
+I can confidently say that I have a great understanding in many of React's advanced and newest features, including the recently introduced state management system called Hooks. I have for instance worked on various applications with hooks as state management solution.
+
+To conclude, I believe I am the right person for the job and I will gladly take any quizes or challenges you might have to prove myself as deserving enough to take the Job.
+
+~~~~~~~~~~~~~~~~~~~*********************************************************
+
+I have 7 years of experience in React.js and familiar with React-Redux for global state management, which means I have rich experience in Reducers, Actions, Redux middlewares.
+Also, I have rich experience in API integration using Axios and very familiar with GraphQL/Apollo client on React projects.
+
+As a senior React.js developer, I have a deep understanding of the best practices of React.js and always write well-structured/clean code.
+Also, I have excellent spoken & written English and have rich experience in team communication & collaboration.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.vroom.com/catalog
+I worked as a front-end developer using React.js for 20 months. I was responsible to build a global store using Redux Thunk and integrate 3rd party APIs(Stripe, Social Login).
+The client gave high-priority writing bug-free & maintainable code. The design was provided through Zeplin and we had a daily standup at 9 AM Eastern time.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Just get me onboard into your world and continue to rock and roll, and then you will get things done right.
+Looking forward to hearing from you. 

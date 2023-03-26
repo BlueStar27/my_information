@@ -1,0 +1,106 @@
+Milorad Kostic
+Front End Engineer
+
+Belgrade
++1 2147314715
+
+9+ years experienced Senior Front End Engineer with hands-on experience in identifying web-based user interactions along with designing &amp; implementing highly-responsive user interface components by deploying React concepts. Recently, worked on several Web3 projects piling up great knowledge on blockchain tech. It is also not new to the remote freelancing scene, so he is extremely flexible with his working hours. Whatever task that I set to do, I always give my best and complete it diligently well in advance.
+
+PERSONAL INFORMATION
+  Address: , Belgrade, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * : 
+
+SKILLS
+  ★★★★★ React
+  ★★★★★ React.js
+  ★★★★★ React Native
+  ★★★★★ HTML/CSS/JavaScript
+  ★★★★★ TypeScript
+  ★★★★★ JavaScript
+  ★★★★★ NodeJS
+  ★★★★★ Redux
+  ★★★★★ MySQL
+  ★★★★★ Docker
+  ★★★★★ Bootstrap
+  ★★★★★ CSS3/Tailwind
+  ★★★★★ jQuery
+  ★★★★★ HTML5
+  ★★★★★ MongoDB
+  ★★★★★ Python
+  ★★★★★ Node.js
+  ★★★★★ Next.js
+  ★★★★★ SDLC/Agile Methodology
+  ★★★★★ AWS/Azure DevOps/GCP
+  ★★★★★ Git/GitHub/GitLab/Bitbucket
+  ★★★★★ Slack/Jira/Kanban Board
+  ★★★★★ Jest, Enzyme, Mocha, Chai
+  ★★★★★ SSR/CSR
+  ★★★★★ Ability to Multitask
+  ★★★★★ Communication
+  ★★★★★ Customer Service
+  ★★★★★ Teamwork
+  ★★★★★ Effective Time Management
+
+WORK EXPERIENCE
+  * June 2019 – November 2022
+    Front End Engineer at BJSS ( Remote ), Leeds, UK
+      
+  Developed large scale web apps for MTS members and membership management with ecommerce &amp; chat capabilities using React.Js/ Redux/ TypeScript/ CSS3/ Sass/ Less, HTML5 /JSX / React Native.
+  Created mobile applications based on React, integrating Facebook's best practices for interface design.
+  Designed REST calls using React to streamline user interface performance.
+  Expert in Git as version control and Jira for defect tracking.
+  Performed unit testing using Karma/jasmine.
+  Assisted in testing of applications by providing feedback on usability and functionality as well as identifying any defects that may exist within an application prior to release.
+  Worked with product Managers and Web Designers to implement flexible, maintainable, reusable and professional UI components.
+  Designed new mockups for a website layout that improved user experience and reduced bounce rate by 8%.
+  Collaborated with 10+ senior team members to upgrade the websites of 150+ customers to catch up with changing industry standards.
+  Collaborated with other developers to ensure code quality standards are met and followed best practices in software development.
+
+
+  * February 2017 – May 2019
+    Sr. React Developer at Evolink ( Hybrid ), Sofia, BG
+      
+  Proficient in React, React-Router, React-Hooks, Redux, Redux-Promise, Redux Form, React Hooks, React Bootstrap and react libraries like create-react-app, Material-UI, styled components.
+  Developed Single pages Application using HTML5, CSS3, Bootstrap, React, Next.js, GraphQL, Express.js, Node.js, Socket, LESS.
+  Serve as the technical production lead, which includes adding new features and content types, writing and maintaining clean code in a best practices environment, and making sure websites function across multiple browsers and mobile devices seamlessly.
+  Worked closely with Back-End Developers, as well as UI/UX Designers, Business Analysts, and test Engineers.
+  Promoted better component life-cycle practices, which increased turn around speed by 74%, an improvement from previous years.
+  Developed and maintained React web applications for the company’s clients, including bug fixes, enhancements, and new features.
+  Used React web to develop a check-in system for a local sports facility, saving them over $4,000 per year in subscription fees.
+
+
+  * May 2015 – February 2017
+    Senior Front End Developer at Teltech, Tewkesbury , UK
+      
+  Wrote front-end code like HTML, CSS, CSS preprocessors (SASS/Less), JQuery for assigned User requirements using React JS, and various other JavaScript frameworks.
+  Using advanced level of jQuery, AJAX, JavaScript, CSS and pure CSS layouts
+  Wrote jQuery function while implementing various UI Screens across the whole web application both consumer facing as well as internal application.
+  Worked as a productive and positive team member to design, code, test, report and debug operations.
+  Pioneered using isomorphic React.js and Node.js for 40+ web applications, which decreased lead times by 69%.
+  Built responsive websites for 40+ customers using semantic React.js compiled using maven and webpack build tools.
+  Built custom Report viewing Web Parts and configured the layout of the portal page to embed personalized reports from SQL Server Reporting Services.
+
+
+  * July 2013 – April 2013
+    Front End Developer at ElanWave, Novi Sad, RS
+      
+  Built a front-end widget that is added as a single external script to an HTML page but works as a big library using Vanilla JavaScript and jQuery.
+  Helped to achieve a consistent look and visual theme across the website by promoting uniform fonts, formatting, images and layout.
+  Developed my teamwork skills by working in close collaboration with 10 other colleague.
+  Worked on internal services with the design team, and manage time across multiple projects and tasks in a deadline-driven, team environment.
+  Worked with UX designers, developers, product managers to develop a new membership platform that brought in a 37% increase in annual revenue.
+
+
+
+EDUCATION
+  * October 2009 – June 2013
+    Union University, Belgrade Bachelor of Science
+
+    Graduated summa cum laude—3.85+ GPA
+
+

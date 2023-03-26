@@ -1,0 +1,13 @@
+Dear client
+Thank you for your job posting.
+I have checked about your requirements and my skills are a match.
+
+I have 6+ years of expertise in Python, Data Analysis, object detection, web scraping, chatbot, Node.js.
+I am very familiar with Bot developement by Python.
+
+My working history includes the trading Bots on the muti-blockchain platform(Ethereum, BSC, Polygon, Solana,...)
+
+I'll do my best to complete your project.
+I am looking forward for your reply.
+Kindly regards,
+Yurii

@@ -1,0 +1,41 @@
+git init
+
+git status
+
+git remote -v
+
+git remote add "_name_" "github repo url"
+
+git remote remove "_name"
+
+git branch
+
+git branch -B "name"
+
+git branch -D "name"
+
+git checkout "name"
+
+git checkout -B "name"
+
+
+
+git pull "
+" 
+
+git add .
+
+git commit -m "name"
+
+git push "name" "branch"
+
+git reset
+
+git log - q
+
+git config user.name --global
+
+git config user.email --global
+
+<input type="number" min="1" step="1" class="form-control" id="amountInput"></input>
+      

@@ -1,0 +1,7 @@
+Dear client,
+I'm Lucas and I'm a full stack developer.
+I have over 2 years of experience maintaining ecommerce sites and over 5 years of experience developing front-ends using javascript, css and html.
+Also, my specialty is optimization technology using JavaScript.
+I think my skills will make your site cleaner.
+I hope to make a small contribution to your great work.
+Thank you for reading my immature article.

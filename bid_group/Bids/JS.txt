@@ -1,0 +1,94 @@
+**************************************************************************
+**********************            React          *************************
+**************************************************************************
+Hi, I have full experience in Javasript Frameworks.
+Especially React JS is one of  my main skills.
+I am very expertise in Reducer, saga, thunk, store in Redux and hook functions, state management using the store, and Material-Ui, Semantic-Ui for user interface design.
+And I am very familiar with git, GitHub, bitbucket, GitLab.
+My Skills and Expertise will be beyond your expectation.
+I am sure I can achieve the results you are looking for.
+Let's discuss more in chat.
+Best regards.
+
+
+**************************************************************************
+*********************            Angular          ************************
+**************************************************************************
+Hello, there! How are you?
+I am very interested in your job.
+I am a Full Stack web developer who have over 5 years of a professional career.
+I have solid experience in building architected modular web applications using Angular.
+I can work on your business time zone and I can promise that I can give you perfect results with my high skill and experience.
+I would be super-happy to work with you.
+Let me know if you are interested.
+Thanks.
+
+
+**************************************************************************
+**********************             Vue           *************************
+**************************************************************************
+HI, Dear. How are you?
+I am confident in my experience and ability to successfully complete this project as I have 5 years WEB DEVELOPMENT.
+I am excited to see your job posting. I feel that it is perfect fit for my expertise and experience.
+Building pages by Vue JS is great fun for me.
+Compared with other js frameworks, Vue Js is light and easy to make components.
+I have enough experience over 5 years with Vue & Nuxt Js.
+I am sure you will get high quality and perfect work.
+Thanks & Regard
+
+
+**************************************************************************
+**********************            Node           *************************
+**************************************************************************
+Hi,  How are you?
+I have solid skills and full experience in NodeJS and RESTFul API.
+Of course, I live and breathe the Git environment
+Also I can manage DOCKER.
+So if you could share your detail with me, I will do my best.
+I am looking forward to hearing positive response from you.
+Thanks.
+
+Hi,  How are you?
+I have solid skills and full experience in NodeJS and Desktop App based on electron.
+Of course, I live and breathe the Git environment
+So if you could share your detail with me, I will do my best.
+I am looking forward to hearing positive response from you.
+Thanks.
+
+
+Hello. Are you well?
+I have huge experience in Websocket and have already built a lot of projects before.
+In my opinion we need to "ws" and "cron_job" node_modules to complete your project.
+I am sure that your work will be in very safe and professional hands.
+Best regards.
+
+
+Hello. Thanks for reading my proposal.
+I have huge experience in Websocket, webrtc and have already built a lot of projects before.
+In my opinion we need to "ws" and "socket.io" node_modules to complete your project.
+Hope to response from you soon.
+I'm ready whenever you are.
+Thanks.
+
+Dear Client. Hope you are doing well.
+I have build my OWN WEB Socket Server like ZOOM and Google Meet.
+I've full experience about WEB SOCKET.
+I can build it various programing language - PHP, Node.JS, Python.
+In my opinion MEAN stack is prefer for your project.
+Also I have solid experience about AWS/EC2.
+So I you give me only idea I can completely build your project.
+Hope to response from you soon.
+Best Regards.
+
+
+**************************************************************************
+********************            Three.js           ***********************
+**************************************************************************
+Hi,  How are you?
+I have solid skills and full experience in Three.js, OpenGL, WebGL.
+So if you could share your detail with me, I will do my best.
+I am looking forward to hearing positive response from you.
+Thanks.
+
+
+

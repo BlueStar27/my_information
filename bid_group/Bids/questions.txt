@@ -1,0 +1,102 @@
+Which of the required job skills do you feel you are strongest at?
+
+-I am proficient as a software architect: dividing a project into logical parts, loose coupling, sticking to DRY and KISS principles makes the development process a breeze.
+I am good at REST API development using NodeJS.
+I am a pixel-perfect web app front end designer.
+So I think that  I could be the best fit for your needs.
+
+
+
+
+
+
+
+
+
+
+
+
+-What past project or job have you had that is most like this one and why?
+https://www.futurestarr.com/
+It is one of my last projects.
+I was built this site using ReactJS/ Redux, Rest API, HTML, bootstrap 4, CSS 3.
+I used jest for unit test 
+
+https://iterative.ai/
+It is one of my last projects using React.js.
+
+In my career, I think that  I could be the best fit for your needs.
+
+Thank you. Chris
+
+
+
+
+
+
+
+
+Why do you think you are a good fit for this particular project?
+I prefer to work on core logic and implementation of front-end.
+As a senior developer, I have strict principles and eyes on UI/UX implementation and always provide pixel-perfect UI.
+
+
+
+
+
+
+What challenging part of this job are you most experienced in?
+I am very familiar with the Redux workflow and Google Map integration.
+I have a very strong logic.
+Also, I am very familiar with Restful APIs and have special technology in cross-browser.
+I have rich experience in Jest for unit test, Babel, Webpack.
+I have the best practise of developing the website using React.js
+
+
+
+
+
+
+
+
+-Why did you apply to this particular job?
+
+Hi, Dear.
+
+I have read about your project description carefully and understood what I have to do for you fully. 
+
+Teach us something
+As former Apple CEO Steve Jobs famously said: "it doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do."
+
+I am a senior web developer who has grit, rigor, curiosity, ownership, and integrity.
+
+I'm really interested in this project and looking forward to working with you.
+
+Thank you. Chris
+
+
+
+
+For frontend, I have rich experience in ReactJS for 3 years.
+I am a pixel-perfect frontend designer.
+I have used styled-components for style.
+I am familiar with SCSS, SASS.
+I have built the project using React/React-Redux, Redux-thunk, Appolo GraphQL.
+I have used Jest for the unit testing and I am familiar with Barbel and webpack
+
+For backend, I have rich experience in NodeJS and Python for 5 years.
+I have built backend using NodeJS, Python(Django, Flask).
+In each framework, I am familiar with the Rest API.
+I have rich experience in built huge backend projects using Django.
+I used PostgreSQL for database
+
+
+
+
+
+
+
+
+I am very sensitive to new technology.
+I am challenge with risk problem and I try to solve it perfectly.
+I am full stack developer. Once start work, I work 30~50 hours per week and I am learning new technical continuously.

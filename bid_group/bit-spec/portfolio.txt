@@ -1,0 +1,238 @@
+=========================================== WEB =============================================
+
+------------------------------------------Angular--------------------------------------------
+
+https://immi.homeaffairs.gov.au/  					angular 5.27	    			travel
+https://zoeskitchen.com/ 							angular 4.1.3		    		food 
+https://online.citi.com/US/ag/contactus  			angular 4.3.0			   		finance
+https://library.fresnostate.edu/ 					angular 4.4.6            		education
+
+--------------------------------------------Vue----------------------------------------------
+
+https://comanage.me/en   							vue   				invoice  	crm
+https://exchange.bitpanda.com/  
+https://directus.cloud/      											cloud 		crm
+
+------------------------------------------React----------------------------------------------
+
+https://www.livefeather.com/   						react							furniture
+https://chobanifoodservice.com/recipes 				ReactJS, Next.js, GSAP, Ngnix
+http://foodetectiI e.co/en/ 							ReactJS, Next.js, GSAP, Ngnix
+http://ff.com/us/ff-zero-1/ 						ReactJS, Next.js, GSAP, Ngnix
+https://www.mrporter.com/ 							React, Next.js, Node
+https://roomster.com/ 								React, Node.js, Express, Firebase, Renting Rooms
+https://findlasvegasproperty.com/ 					React, Chart.js, Bootstrap 3x, Booking
+
+------------------------------------------Laravel--------------------------------------------
+
+https://safemenu.org/en   							laraval
+
+-------------------------------------------RoR----------------------------------------------
+
+https://www.medhelp.org/   							ruby on rails   				health
+
+
+---------------------------------------Marketplace------------------------------------------
+
+https://www.thecustommovement.com/ 					ReactJS, Node.js, Next.js, Express.js, Heroku, Stripe
+https://asos.com 									ReactJS, Require.js
+https://realestate.com.au 							React.js, Require.js, PaaS
+
+
+=================================================Blockchain================================================
+
+--------------------------------------------------NFT-------------------------------------------------------
+
+https://www.thekittybutts.com/
+https://lionclub.sportsicon.co/
+https://www.secretsocietyofwhales.com/
+https://www.lazylionsnft.com/
+https://bullieverisland.com/
+https://hewerclan.com/
+https://galaxyfightclub.com
+https://beta.boojabaunga.com/
+https://www.sphynxnft.com/
+https://camistry.io/
+https://www.venly.io
+
+
+https://exchange.bitpanda.com/  
+https://rustchance.com/  							React Rust
+https://defidinos.com/ 								Ethereum NFT
+https://boredapeyachtclub.com/ 						Ethereum NFT
+https://www.slotie.com/								Ethereum NFT
+https://unfederalreserve.com/ 						DEFI
+
+
+
+--------Test--------
+
+https://www.waxstash.com/
+https://www.thehashmasks.com/
+https://app.alchemix.fi/
+https://ysl.io/
+https://yieldguild.io/
+https://overworldlife.com/
+https://satoshimonsters.cc/
+https://dex.leonicornswap.com/home
+https://cosmicpaws.io/ 
+https://cryptoetsnft.io/ 
+https://therubberduck.io/
+--------------------------
+- laravel
+http://hudosanya.com/  (japan )
+https://www.liquor.com/  (drink )
+https://www.hotellagodigarda.it/en/  (hotel booking0
+https://theratrove.com/ (doctor appointment booking)
+https://communitylynk.org
+https://www.medievaledge.com/ (eCommerce) (Laravel)
+https://www.petbuds.co.uk/
+https://sistemkoin.com  (bitcoin) 
+http://seascapewindow.com/
+http://www.forsalebyowner.com.au/                                                                                                    
+http://www.transportsocial.com/en/  
+http://telemedicine.arhamsoft.com                                                          https://imprevo.hu/                                                                                                                
+https://restorationeis.com
+https://www.mtvpersian.net/ (music, video)  
+https://www.treatopedia.com/
+http://www.cadhubs.com/ (job site)  
+
+https://www.craftlosangeles.com/  (restaurant site)
+www.summervilleresort.com.br (Resort website)
+www.flatfair.co.uk (Agents / Tenants website)
+www.honorvettech.com (Employers / Employee marketplace website)
+https://www.weekendgowhere.sg/ [Online Booking & Buy]
+https://holdeed.com/   (construction)
+https://horseflyanalytics.com/ (aws analytics )
+
+https://reverb.com/ (Ruby on Rails + React)
+http://www.hyperhost.pt 
+https://map.gital.ca (GPS tracking service using Java spring, JPA, Vue, Redis)
+https://heckenschnitt.com (WordPress)
+https://swap.gg/ (Vue.js)
+https://www.chewy.com/ (Express, React.js, Nuxt.js, Hotjar )
+http://www.campoallecomete.it/#!/en (Angular.js, Three.js)
+https://sharebite.com/ (Braintree)
+
+
+
+https://www.medievaledge.com/ (eCommerce) (Laravel)
+
+https://www.spruceshaveclub.com/ (eCommerce) (Shopify)
+
+https://www.chelsealeifken.com/ (eCommerce) (Squarespace)
+
+https://ipsdis.org/ (CRM Developed in OpenCart)
+
+https://citytherapycenter.com/ (WordPress)
+
+https://5starconsultants.net/ (WordPress)
+
+https://caesarbenderlaw.com/ (WordPress)
+
+https://foxvalleysr.com/ (WordPress)
+
+-wordpress sites
+https://www.isamosa.com/  (cooking restarant0
+https://cornichewatches.com/    (clock ads)
+nabtahealth.com    (woman health care)
+http://www.atfirstsightfilms.com/ [Photography]
+http://www.amplispot.com  (Marketing)
+http://hungrybear.cooking/  (cooking or restaurant)
+www.honorvettech.com (Employers / Employee marketplace website)
+https://www.proteenlife.com/ [Enterprise]
+https://peaudor.com/   (marketing commerce)
+https://www.beijinglayovertour.com  (tourist booking site - Beijing)
+http://www.pittsburghhaircolorist.com (barber , hair simple blog)
+https://writetosanta.ca/  (santa blog)
+http://www.infectionpreventioninstitute.org (service)
+http://www.coolplanet.com/ (blog)
+
+https://www.esecforte.com/ 
+https://www.powerschool.com (LMS)
+
+http://vipsurgicalcenters.com/ (hospital site)
+http://ourspacedesign.com.sg/ (food room site)
+http://pyxis-lab.com/ (shopping) 
+http://chicdistributions.com/ (dress mall)
+https://www.orapup.com (dog shopping)
+http://etech.com.vu/ (electronic shopping)
+https://www.exoaquaristic.com.au/ (plan shopping)
+https://www.uscustomkids.com/  (shopping)
+
+-shopify
+https://www.topsunbazar.com/
+https://www.impashion.com/
+http://saboskirt.com/    (skirt)
+                   
+-angular
+https://myvr.com/
+http://crowd.ideagenie.org/#/
+https://mixer.com/
+http://winetrakr.com/
+https://www.planhub.com/
+http://gamebooksapp.com/ 
+https://www.landsend.com/
+https://www.rocketlanguages.com/ (larabel, angularjs)
+
+https://4stay.com/ (angular.js + django)
+https://www.stowit.com/ (angular.js + django)
+
+
+-node.js
+https://finworx.com/
+
+-react.js
+https://iqoption.com
+https://www.testingmom.com/
+https://www.styletime.no/
+http://www.leadconcept.com/  (angularjs, reactjs)
+https://musicalfunctions.com.au/ 
+https://www.ozeating.com.au
+
+-codeignitier
+http://browardgreaterthan.org/
+http://www.zigabid.com
+http://mvpedge.beanmachinela.com/
+http://vitalblinks.leadconcept.biz/
+https://www.gateoftrade.com/
+https://vested.ca/
+https://www.mangopay.com/
+
+-opencart
+http://www.smarteasy.hk/
+https://www.monstergardens.com
+http://seeknatural.co.uk/
+
+-blockchain
+https://blockvestico.io
+
+python django
+-https://www.hopitude.com  (django, angularjs, mongodb)
+-http://sapl.camarajatai.go.gov.br (django + vue.js)
+-https://www.groundup.org.za
+-https://hsumd.org
+-https://www.contify.com/
+-https://www.shipup.net
+-https://steelkiwi.com/
+
+
+-google calender
+https://www.titua.com/
+
+
+Yii
+-http://sub34.softdevelopvn.com
+
+
+
+Deliverylab.com.br
+Scalabull.com
+
+
+http://votivedesigner.com/Westindies-Trips/NewHTML/
+
+
+
+
+

@@ -1,0 +1,345 @@
+
+15 JAN 2022 · 10:45 AM
+----
+hello
+Hi, thanks very much for your reply
+----
+nice to meet you
+Nice to meet you too.
+----
+my project is very simple
+I see
+we are launching our erc20 token (NPT will be the name)
+and need a website where the user can do the following things:
+1. deposit EUR with credit card or bank transfer
+2. buy NPT by using the EUR deposited
+3. withdraw NPT to move them to another wallet
+4. deposit NPT
+5. sell NPT and collect EUR on their account
+----
+6. withdraw EUR by bank transfer
+Is that all?
+So have you already created your NPT token?
+by the way there will be kyc for users, 2fa authentication with google AUTH, transaction history etc
+----
+we are writing the NPT smart contract right now
+Got it
+----
+i can share some screens to better show what i need
+Please
+Share
+this is the internal wallet...by the way there will be NPT and EUR
+----
+
+image.png
+image.png
+Just checked
+a form like this one will allow to buy/sell NPT
+
+image.png
+image.png
+there will be a dashboard and user will set his parameters by a page like this one
+
+image.png
+image.png
+the script will have a support page and will be it/en
+you will use a template with some pages included
+----
+http://preview.themeforest.net/item/cryptoon-crypto-bootstrap-admin-template/full_screen_preview/34769509?_ga=2.49955172.334537424.1642260528-216333981.1641884657&_gac=1.120486266.1641889861.Cj0KCQiA8vSOBhCkARIsAGdp6RStmQjO0x9z4GOh8geRGAKjZtZVnCaa_q_qzNGypxslVUKoO_nyI04aAtFeEALw_wcB
+Totally I should develop dApp using React?
+can check it here
+----
+yes
+Only frontend?
+----
+no, frontend and backend by the way
+What's your prefer ?
+Just checked
+----
+don't get you
+no, I mean there are many pages there
+We might be using pages needed
+right?
+yes but we will use the page that we need as the login/signup/lost pwd, user details and their UI components
+----
+we told the same
+Ok
+no problem
+----
+tell me your idea
+Do you have entire design?
+----
+no
+or mockup?
+Then according to my eye?
+pls enter in this script..as features i want a clone
+https://demo3.coinsclone.com/
+https://demo3.coinsclone.com/workarea
+the 2nd is the admin backend
+----
+but if you want i can create amockup for you
+first is user dashboard
+user backend
+yes
+the admin will have ony the features that we need
+----
+only
+you already said me "we are writing the NPT smart contract right now"
+you mean someone is developing NPT smart contract?
+----
+no, i'm doing by myself
+Oh, great
+
+erc20_Neptune.sol
+i'm just seeing last details
+----
+i'm an amateur developer
+Anyway, seems like you are a expert
+----
+no slightly smiling face emoji
+haha
+Ok
+Please send me the doc details
+Include entire requirement
+so that I can produce a good result for you
+----
+i will prepare it
+Cool
+----
+do you have a budget idea and a deadline?
+I think only there is one thing right now
+hhh
+the same
+----
+pls tell
+I think now I can say my rough estimate
+But you need to know exactly estimate
+maybe
+So after you send me the doc
+----
+tell me your rough
+Ok
+----
+so we will consider if there are opportunities to go on
+Let me think
+User backend: 1000
+Admin backend: 2000
+Totally 3K
+How about this?
+it's very expensive
+----
+totally out of my budget
+This is not absolute
+----
+but it is very far
+Your estimate?
+----
+it is very far
+I have to develop smart contract with you also
+Please let me know your estimate
+i can't spend more than 1500$
+----
+but i have lot of offers around this budget
+Ok
+I'll always do my best for client
+Of course, include you
+Would you like git repo?
+----
+i will share the mockup soon and you will tell me
+Ok
+estimate deadline?
+----
+3-4 weeks
+Good
+How about milestone?
+----
+it is not a problem, we will decide together
+Perfect
+Alright
+this is the 1st step of my project
+----
+i want to launch an ICO listing website for agricolture companies
+got it
+----
+if you will be online, i will share mockup..need one hour
+no problem
+Take your time
+----
+you there?
+Yes
+Here
+let i share with you a small mockup..i'm finishing it but has almost everything
+pls follow the hints to navigate
+----
+
+npt.pdf
+Ok
+----
+these are the main functions of the app
+Let me check
+----
+ok
+Is there barcode scanner feature?
+nono
+----
+it is only to reach the address with a phone
+I seee
+see
+Seems like NPT token logo is very perfect
+I like that
+----
+by the way i will add a mockup of the history page and other pages within tomorrow
+Ok
+this is the logo
+----
+
+neptune.jpeg
+neptune.jpeg
+Now I'm imagining our dApp and thinking how to implement all of features
+----
+very good
+ok emoji
+so speak tomorrow for new updates
+----
+I'd like to do this work with you
+Thanks
+I'll do my best
+thumbs up emoji
+----
+have a good night
+you too
+16 JAN 2022 · 5:43 AM
+Hi
+Are you having a good Weekends?
+Yes sure
+I have fully completed my user mockup
+----
+And almost finished the admin mockup
+Hi,
+Good news
+Hi
+----
+Are you working on Sunday?
+a little
+----
+slightly smiling face emoji
+Checking the link you sent, I have some questions
+----
+Pls tell
+The template is powered by angular
+So we should be using Angular for our dApp?
+----
+It should be only bootstrap
+So did you buy the theme?
+It's only for reference template
+?
+----
+No problem... Haven't bought extendef license yet
+How about making just like theme?
+----
+It can be a solution... The point is the responsiveness
+yeah
+responsive dApp
+I prefer React
+React is better than Angular
+I mean it's js framework
+----
+No problem.. But the template is html and bootstrap, no Angular
+Ok
+There is the stack when I check the template
+Technology: Bootstrap, Angular...
+so..
+----
+I will send you the admin mockup soon... Hope you will finalize offer and deadline
+Sure
+----
+And copy of template
+I already created a private git repo for this
+I need to send you the invitation
+----
+Ok
+?
+----
+Send me
+How ?
+----
+Ok do you need my git access
+I don't know your info
+----
+I'm not on my pc, need 30min
+I mean you have to send me the mail so that I can give you the access
+Ok
+----
+Eziogrieco75@gmail.com
+Just sent
+----
+Ok
+Which server would you like to use to deploy app so that you can check?
+----
+We will decide together acclrsing with your requirements
+If you can install the codebase on your pc, it should be no problem
+via git repo
+----
+It's up to you
+I'll report daily and you can see the progress
+----
+By the way i would need of a place where to do testing
+Do you have AWS account?
+----
+No, but i could open
+you can test it on your pc or we can use AWS
+----
+Better to use aws i think
+Of course, according to my help
+smiley emoji
+----
+👍🏻
+Let me deploy it on AWS
+----
+Ok
+I know well for this
+----
+But we should fix budget and deadline before
+Alright
+After I check the mockup you made
+----
+Ok, give me 2/3 hours to complete it
+Take your time
+
+ok?
+
+
+
+
+
+
+------------------------------------fiver.com-------------------------------------------
+fiver.com
+
+This is my chatting history:
+
+First chatting:
+   Hello
+   I am looking for someone to help me.
+   Please contact me.
+   Thank you.
+Second chatting:
+    Hello.
+    nice to meet you.
+    are you interested in getting income?
+    I wanna help you.
+    I wanna you earn lots of $.
+    excuseme can i ask one question?
+    How many computer do you have?
+    Do you want to my help?
+    Do you know upwork?
+    Could you help me?
+    I am senior developer.
+    If you rent me your computer I will give you $.
+    Could you rent me your upwork account?
+    the first two or three months I will earn a little $ after that I will earn
+    7000-8000$.
+    If you rent me your account I will give you 15(20)% of my income.
+    are you agree?
+    do you have $ k y p e?
+    Can we tell in $ k y p e?

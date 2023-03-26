@@ -1,0 +1,183 @@
+！indeed
+！simplyhired
+！ glassdoor
+!  monster
+!  zipRecruiter
+!  carrerbuilder
+!  jora
+?  handshake(students)
+?  angelList
+?  chegg Interships
+?  learn4good
+?  postjobfree
+?  linkup
+?  snagajob
+? the ladders
+? joblist
+!  jooble
+!  remote.io
+!  dice
+engineering.com
+? BuiltIn
+! Uncubed
+! CrunchBoard
+! Hired
+? angel.co
+! Remote Tech Jobs
+? TripleByte
+! Mashable Jobs           
+Tech Fetch      
+! Honeypot        
+! Work In Startups        
+! Relocate.me
+TechCareers         
+?  Venture Loop        
+?  Smashing Magazine Job Board     
+Underdog
+! WhiteTruffle        
+! IT Job Pro  
+! F6s.com     
+! YCombinator Jobs        
+! Product Hunt Jobs
+! talent.hubstaff.com
+! Virtual vocation
+! workingNomads.coe
+! Jobspresso
+! Remotive.io
+! JustRemote.co
+! skipthedrive.com
+! outsourcely
+! dynamitejobs
+! TechCrunch
+! LGBTQ remotely
+? girls in tech
+! remotive
+! JS remotely
+angellist
+Bloom
+Findy
+forkwell
+green
+japandev
+jobrainbow
+openwork
+wantedly
+koinly
+remoteukraine
+remotemore
+echinacities
+hiredchina
+careerinsights
+echinacareers
+jobsitechina
+expatjobschina
+程序员客栈
+CODING 码市
+
+104corporation
+111corporation
+51job
+almalaurea
+bayt.com
+boss zhi pin
+
+careerbuilder
+catho
+clearancejobs
+computerbajo
+ctgoodjobs
+dev.bg
+directemployers(https://dejobs.org/)
+Prospects
+
+Shi Xi Seng
+SimplyHired
+Snaphunt
+the:protocol
+TotalJobs
+TotalJobs/Stepstone
+UniversoBit
+xing.de
+Zhi Lian Zhao Pin
+Zona jobs
+
+workwise.io
+
+https://weworkremotely.com/top-remote-companies
+
+
+soho
+case.1111.com.tw
+case.104.com.tw
+www.tasker.com.tw
+pro360.com.tw
+glints.com/tw
+Yourator
+Nomadlist/RemoteOK
+
+https://hkese.net/
+https://www.workeroom.com.hk/
+HelloToby
+myskill
+flohiring
+blind
+boss
+
+flexjobs
+
+iimjobs.com
+
+instahyre
+jobs.bg(ie)
+naukri
+
+prospanica
+saramin
+the muse
+work180
+kununu
+
+https://www.ycombinator.com/companies?isHiring=true&regions=Fully%20Remote&status=Active
+
+https://nodesk.co/remote-jobs/
+
+https://jobs.workable.com/search?remote=true
+
+https://web3.career/remote-jobs
+
+https://startup.jobs/?remote=true&q=front+end
+
+
+   https://dev.to/fredmaiaarantes/top-websites-to-find-a-remote-programming-job-in-2020-4b54
+
+http://djinni.com/
+
+https://cord.com/
+
+https://hired.com/x/d450f54af17608294b546c7438bb9cfa
+https://hireitpeople.com/resume-database
+
+https://japan-dev.com/jobs
+https://directscout.recruit.co.jp/head_hunters/106832
+https://justa.io/en
+https://angel.co/location/tokyo
+
+https://www.canva.com/
+
+justjoin.it
+https://hireitpeople.com/resume-database
+
+https://weworkremotely.com/top-remote-companies
+
+https://swissdevjobs.ch/
+
+https://www.work.ua/en/jobseeker/my/resumes/sent/?job_id=4933534
+https://app.enhancv.com/
+
+https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
+
+0xD9E82109dC52688911Cae189F59d939ca0280f35
+
+Function reserve(str){
+    return str.split('').reserve().join('');
+}

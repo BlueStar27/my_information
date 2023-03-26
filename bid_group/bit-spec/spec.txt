@@ -1,0 +1,70 @@
+---Describe your experience working with AWS.
+Scalable and high-performance . Using AWS tools, Auto Scaling, and Elastic Load Balancing, your application can scale up or down based on demand. Backed by Amazon's massive infrastructure, you have access to compute and storage resources when you need them.
+But Downtime is often cited as one of the biggest disadvantages of cloud computing. Since cloud computing systems are internet-based, service outages are always an unfortunate possibility and can occur for any reason.
+Therefore, AWS should be used according to the characteristics of the target.
+---Do you have experience with MongoDB? If yes, please describe your experience
+MongoDB is nice.
+Generally, Because it is non-relational, data management is easy and large-capacity can be saved.
+However, if the search engine is not used well, speed and quality cannot be guaranteed.
+---Describe your experience with PHP
+PHP coding is very easy for representing of user request, powerful library support and Build-in database connection helps to connect databases.
+But it does not allow modification of online applications, Not equivalent in performance to other and Tough to manage and incompetent.
+---Desc MySQL
+MySQL is not very efficient in handling very large databases. MySQL doesn't have as good a developing and debugging tool as compared to paid databases. MySQL versions less than 5.0 do not support COMMIT, stored procedure and ROLE. MySQL is prone to data corruption as it inefficient in handling transactions.
+
+-----QA improving--------
+
+1.Let someone own QA.
+2.Integrate your team more.
+3.Make QA a priority.
+4.Integrate earlier.
+5.Automate what can be automated.
+6.Implement a scalable approach.
+7.Try to spot possible regression as early as possible.
+
+-------------
+
+I think I can serve you:
+- Contribute to the project with expertise skills.
+- Share knowledge and skills with the entire team.
+- Clean and conventional code.
+- Available on every GMT time zone.
+- full time for a week
+- great communication
+
+-------------
+Hi,
+Ready to finish project for you will give best and fast work.
+thanks
+
+------------
+
+I will complete this project in the shortest time possible and maintain it even after delivering it. I am an experienced PHP programmer.
+
+
+----------------
+
+I enjoy development and designing websites that are focused on CONVERSION. I've worked and collaborated with sellers, online retailers, business owners, marketing agencies, and digital marketers.
+저는 CONVERSION에 중점을 둔 웹사이트를 개발하고 디자인하는 것을 즐깁니다. 저는 판매자, 온라인 소매업체, 비즈니스 소유자, 마케팅 대행사 및 디지털 마케팅 담당자와 함께 일하고 협력했습니다.
+----------------
+
+Accomplished Game Developer with a successful track record of launched games, expert game design skills, and game development proficiency seeks a creative leadership role at a studio with a demonstrable focus and passion for crafting jaw­dropping online and mobile play experiences.
+성공적인 출시 게임 실적, 전문 게임 디자인 기술 및 게임 개발 숙련도를 갖춘 성공적인 게임 개발자는 놀라운 온라인 및 모바일 플레이 경험을 만드는 데 집중하고 열정을 보여 스튜디오에서 창의적인 리더십 역할을 추구합니다.
+
+-----------------------
+That's the brief information about me. please let me know if you have any questions and I will be happy for trying to answer all of your technical and untechnical questions
+저에 대한 간략한 정보입니다. 질문이 있는 경우 알려주세요. 기술 및 비기술적 질문에 기꺼이 답변해 드리겠습니다.
+----------
+
+I have been doing a lot of work for this type of job. More detail you may be interested in will be provided over chat. 
+나는 이런 종류의 일을 위해 많은 일을 해왔다. 궁금하신 점은 채팅을 통해 자세히 안내해드리겠습니다.
+------------
+As per your requirement, I can give you perfect answers as well. Your project immediately can be started and is looking forward to my participation.
+귀하의 요구 사항에 따라 완벽한 답변도 드릴 수 있습니다. 귀하의 프로젝트는 즉시 시작될 수 있으며 제 참여를 기다리고 있습니다.
+-------------
+
+Please feel free and you may award me the task. I'd be happy and present you with the best products. Promise to work with 100% accuracy.
+Let's disuses this further via chat, and I'll your project right now.
+부담 없이 나에게 임무를 부여할 수 있습니다. 최고의 제품으로 보답하겠습니다. 100%정확한 작업을 약속합니다.
+채팅을 통해 이것을 더 이상 사용하지 않도록 합시다. 지금 바로 프로젝트를 수행하겠습니다.
+---------------

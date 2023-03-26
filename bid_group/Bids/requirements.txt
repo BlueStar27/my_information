@@ -1,0 +1,11 @@
+
+
+
+************ Requirement ****************
+Description:
+There are two independent applications running under Mac OS X. There is no source code for them and will not be. There is no API either, and if there is, then its use is not advisable.
+Both applications have a GUI where the user enters a text message and receives a response in the form of a text message, sometimes supplemented with a picture or emoticons. The user, having received a response from the first application, copies it and enters it into the second application through the GUI. After receiving a response from the second application, the user enters it into the first, and so on.
+If there is no answer, for some predetermined time, the dialog is erased in one application, and the second is restarted. This exchange process needs to be automated. A practical example.
+There is a certain user who uses the Telegram messenger (Viber). He has correspondence partners who are taking their time with idle chatter and who also cannot be blocked for ethical reasons. Here he (the user) on his computer opens the window of the Telegram messenger and the second window - Chat-Bot, for example this one: http://p-bot.ru Further, everything that the unwanted interlocutor writes is manually copied and sent to the Chatbot, and the Chatbot's response is copied and transmitted through the GUI to Telegram, and the whole process is repeated cyclically until the interlocutor gets tired of the dialogue.
+The Telegram user saves his time and uses it for something more useful. This cyclical process also needs to be automated. Dialogue can initially arise, both from the user himself and from his interlocutors (the latter takes place predominantly).
+The dialogue can be supplemented by sending humorous pictures that are prepared in advance and lie in a separate folder on the computer or on the FTP server (both options are provided) and are selected in order or randomized to raise the mood of the interlocutor. In general, we have, as it were, an imitation of the dialogue of our user - a living person. 

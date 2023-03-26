@@ -1,0 +1,82 @@
+experience:
+-Backend Dev/Project LeadCMStudio
+Jun 2020 - Nov 2020 (5 months, 1 day)
+* API architecture for a mobile security application auditing platform using Django Rest Framework/Angular.
+* Setup of production, development, and testing servers on Linux Machines and building CI/CD.
+* Managed a great team of international professionals.
+-Web developer
+Meta Course
+May 2014 - Apr 2015 (11 months)
+After graduating from university, I have worked in this company.
+ Now I am not there, but I feel honor about that co.
+-Blockchain DeveloperFreelancer
+Feb 2021 - Present
+I have been working as a blockchain developer and developed many NFT minting sites on Ethereum, Polygon, Binance, Solana, Cardano blockchain network and etc.
+ And also token and coin development as well as DEX, Defi apps.
+-Web & Mobile ExpertMediaSoft
+Jan 2014 - Apr 2020 (6 years, 3 months)
+Possessed comprehensive experience in web & mobile development, and skilled in SEO
+Highly experienced in working with Angular, React.js, Vue.js, React Native, Node.js, Django etc
+-Web & Mobile Developeri-Neti
+May 2011 - Mar 2013 (1 year, 10 months)
+Developed Native Apps(Android and iOS) and Web apps with Laravel, Node.js, MongoDB
+-Top Web developerTransport
+Aug 2015 - Jan 2020 (4 years, 5 months)
+Development Front-end parts - Public in ReactJS (+Redux)m, WordPress, Woocommerce and Admin
+Dashboard in VueJS (+Material Design), build User Interface, HTML coding in SMACSS, server rendering.
+Participating in discussing/meetings about UI/UX development, buildings and improvements of Client’s part.
+-Web Front-End Developer
+Awara IT
+Sep 2014 - Mar 2016 (1 year, 6 months)
+In this company, I worked as a front-end for the web development team.
+
+At this time, I gained deep knowledge and rich experience in JS Frameworks such as ReactJS/VueJS/Angular and HTML/CSS/Bootstrap/Javascript etc.
+-Back-End DeveloperVELVETECH LLC
+Apr 2016 - Oct 2019 (3 years, 6 months)
+I worked in this company as a Back-end developer.
+
+Good experience in PHP Frameworks such as Laravel/Codeigniter.
+
+
+
+
+
+
+-Education:
+-Computer Science Bachelor
+Moscow Institute of Physics and Technology, Russian Federation
+2017 - 2019
+(2 years)
+-Bachelor’s Degree in Computer Science
+Naberežno Celninskij Gosudarstvennyj Pedagogiceskij Institut, Russian Federation
+2008 - 2011
+(3 years)
+-Bachelor of Computer Science
+Moscow Institute of Physics and Technology, Russian Federation
+2005 - 2010
+(5 years)
+
+
+address: Kirovsky District
+city:Saint Petersburg
+
+
+
+
+
+
+
+
+-Qualifications
+-Computer Science Bachelor
+Moscow Institute of Physics and Technology
+2019
+When I graduated from university, I have become a computer science bachelor.
+-A member of CMMI 3 authentication organization
+CMMI institute
+2016
+As you can see, this certification is the world's best certification that software companies can receive, and I can proudly say that I was a member of the organization that received this certification.
+-Certificate of Excellence in Reviewing
+Journal of Advances in Mathematics and Computer Science
+2019
+In contribution to the quality of the journal.

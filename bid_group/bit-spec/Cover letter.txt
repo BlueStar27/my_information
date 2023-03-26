@@ -1,0 +1,687 @@
+-blockchain developer
+Let me introduce myself.
+My name is Zess Lint, I'm based in Texas State.
+I started my career since 2014, in Nielsen company in Taiwan.
+First, I got my position as a frontend developer and started my career.
+During my career I have been done tens of projects and modules, and then experienced in frontend/backend development.
+I can utilize popular frameworks such as ReactJs, VueJs, AngularJs, Laravel, NodeJs, GraphQl and extra so that I can make products qualified and paced up.
+I realized the importance of blockchain technology and participated in development of smart contracts and NFT marketplaces, eventaully I developed two NFT marketplaces and several smart contracts for DAO.
+So I ackquired ethereum related skills and I'm ambitious for other popular blockchain network skills.
+
+As you can see, since I started my career, I have been moved my position several times across the several comapnies.
+Every position was always finished successfully but I didn't stop and I was trying to challenge more diverse environment because new environment is challenge for me to increase my ability.
+
+
+-full stack developer
+I have been working as a software engineer for about 14 years now. I started my career as a web developer with php language about 9 years ago but my last 7 years are mostly involved with javascript frameworks and libraries like react.js angular and vuejs also nodejs and so on.
+You know soft engineering is so much more than coding and I need to focus on different things like high level design and low level design, also creating blue prints and so on.
+I love to contribute those kinds of works while working on projects.
+I am familiar with angualr and while working with angular, I am familiar with angular js and angular both of them.
+When we are talking about angular, angularjs means angular 1.x and angular means angular version 2 and more.
+I am familar with with all of them and I was able to complete more than 20 small and large projects with enterprise solutions.
+As a software engineer, I must be familiar with different services and tools, for the version controlling system, I am familiar with Github, BitBucket, Gitlab, Svn repositories, and also Microsoft Team services.
+For the ticket management tools, I am familiar with Jira, Trello, active collab, Asana and you know there are many other services that we can use for the TMS purpose.
+One of the most important things for the developers is testing. I am comfortable with unit testing, e2e testing of course automatic or the manual.
+I can support more than 85% of code coverage for the codebase and cover the entire flow with e2e testing cases.
+As a full stack developer, I am familiar with different backend frameworks and libraries,
+I am familiar with expressjs and sailsjs  and node js.
+For the Python language, I am comfortable with the django framework and also I have about 3 year of experience with Ruby on Rails as well.
+For the database, personally I would like to use PostgreSQL for most of projects, I like it a lot.
+Regarding my availablity, I can commit more than 40 ~ 50 hours a wekk, and I can commit at the weekend if needed.
+I am an individual freelancer and I am flexible at working hours, I can be online any timezone and I will make more than 4~5 hours of overlapping time with you or other developers so we can keep communication clearly without any issues.
+That's the brief information about me. please let me know if you have any questions and I will be happy for trying to answer all of your technical and untechnical questions/
+
+
+---fullstack
+
+Thursday, January 21, 2021
+2:32 PM
+
+Dear client.
+Thanks for your job posting.
+I read your requirement carefully and I feel that I am a good fit for your project.
+As an experienced full-stack developer,  my sole purpose is to deliver successful projects to clients.
+I am a certified full-stack developer with 8+ years of experience developing complicated SaaS web applications, enterprise business websites, and small personal blogs.
+I am familiar with JavaScript/ECMAScript/TypeScript based front-end web applications.
+Especially, I am currently focusing on Angular 2 ~ 11, React.js/React Native, and Vue.js development.
+I love to write code in a high-paced and challenging environment with an emphasis on using best practices to develop high-quality software that meets project requirements, budget, and schedule.
+My eye for design and creativity has made me a strong front-end developer that can bring your vision for a website or UI/UX to life.
+I mastered Angular as much as I can teach it to others.
+With theming frameworks, I used Bootstrap and tailwind CSS.
+So I love to develop frontend projects by using Angular, React, Nextjs with theming Bootstrap, and tailWind CSS.
+You could see some of them:
+https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.restaurantapp
+https://play.google.com/store/apps/details?id=io.yoga5.app
+https://www.districtloom.com/
+I hope for a discussion about your project.
+ 
+Kind regards!
+Yurii.
+
+
+
+---frontend
+
+Thursday, January 21, 2021
+2:32 PM
+
+Dear Hiring manager
+ 
+I've read your requirements carefully and I feel that I am a good fit for it.
+As an experienced senior developer, my sole purpose is to deliver successful projects to clients.
+I have 5+years experience of frontend development using HTML5, CSS/SASS/TailwindCSS, JavaScript, React, Vue and libraries that is for frontend such as D3Js, threeJs. I have 2years experience of Blockchain frontend using by web3.
+Especially, I am a dynamic site expert.
+So I can complete your project within a short time with high quality.
+I am willing to do any test project or trial tasks, that will be a chance for me to show my coding styling and knowledge to you.
+Don't hesitate to take a chance to discuss your project with me.
+Looking forward to hearing from you.
+
+Best regards
+Ben
+ 
+Yurii.
+
+---python
+Dear Hiring Manager
+
+I am a python expert.
+I have 3+years experience of development using Python.
+I have ever developed integrating service, Web development, so on.
+I would greatly appreciate the opportunity to meet with you and further discuss my qualifications and your requirements in detail. Thank you for your consideration, and I look forward to talking to you soon.
+
+Sincerely,
+Ben
+
+----------blockchain
+Dear Hiring Manager,
+
+Thank you for your job posting. 
+I am very familiar with PHP/Laravel, Node.js/React.js/Angular.js, Solidity/Truffle/Hardhat, Web3.js/Ether.js, Rust, Open Zeppelin, GraphQL, several blockchain APIs.
+And I have RICH experience with smart contracts, several types of token(ERC20/BEP20/ECR721/ERC1155) deployment, building new wallet, auto trading bot/snipping bot(front-run, arbitrage), DEX fork, Defi platform for Staking / Yield farm / Lending & borrowing system / NFT marketplace / Crypto Game(play to earn) in several blockchains like Ethereum, Binance Smart Chain , Polygon, and Solana.
+So many interests in website design and development to integrate crypto currency and had experiences with it.
+I would greatly appreciate the opportunity to meet with you and further discuss my qualifications and your requirements in detail. Thank you for your consideration, and I look forward to speaking with you soon.
+
+Sincerely,
+Ben
+
+---frontend
+
+Thursday, January 21, 2021
+2:32 PM
+
+Dear Client. 
+Thanks for your job posting.
+⭐⭐⭐ Senior developer Here ⭐⭐⭐
+ 
+I've read your requirements carefully and I feel that I can contribute to your project.
+I am having over 6 years of expertise in:
+- General web technologie
+○ HTML5, CSS3(SASS/LESS/SCSS), Bootstrap4, jQuery
+○ tailWindCSS, GraphQL
+- JavaScript frameworks
+○   Angular 2~11, React (react-redux, redux-saga/redux-thunk), Vue
+-  Mobile App Development
+○ Android, Ionic, React Native, Vue Native
+- Languages
+○ Php, Java, C/C++
+○ JavaScript ES6/7/8, TypeScript, GoLang, Elixir
+- Versioning Tools
+○ GitHub, GitLab, BitBucket
+        - Deployment Tools
+○ Heroku, Vercel, Amazon
+My sole purpose is to deliver quality services to our clients and to obtain this I keep on participating in training and quality enhancement programs.
+I hope a discussion with you in detail over the chats.        
+ 
+Kind regards!
+ 
+Yurii.
+
+
+
+---CMS
+
+Thursday, January 21, 2021
+2:32 PM
+
+Dear client.
+Thank you for your job posting.
+I've read your requirements carefully and I feel that I can contribute to your project.
+I have over 5 years of experience in CMS frameworks.
+ I am familiar with 
+                               Shopify, 
+                               Magento, 
+                               WordPress,
+                               Shopware etc.
+You said that you want to change the modules in your project.
+This means that you want to change some modules or some functionalities or some design that you couldn't change in your admin dashboard.
+I think that it's not a big problem for me to complete yours.
+Some of my projects are :
+https://www.districtloom.com/
+https://ha.ndso.me/
+https://highkey.com/
+https://www.tonysonline.co.nz
+https://shop.ohauwines.co.nz/
+I hope for a discussion in detail over the chat.
+ 
+Kind regards!
+ 
+Yurii.
+
+
+
+---HTML
+
+Thursday, January 21, 2021
+2:32 PM
+
+Dear Client,
+Thanks for your job posting.
+⭐⭐⭐ Senior developer Here ⭐⭐⭐
+I have read your requirements carefully and I am ready to fix your project.
+Having 11+ years of expertise in HTML5, CSS3(SASS/LESS/SCSS), Bootstrap(bootstrap theming), PHP, jQuery, AJAX, I can complete your project in a short time with high quality.
+my previous projects:
+https://www.maman-corp.com/
+https://www.krop.com
+https://www.block4hire.io/
+My sole purpose is to give satisfaction to the customers.
+I hope for a discussion in detail over the chat.
+
+Kind regards!
+
+Yurii.
+
+
+
+---React
+
+Thursday, January 21, 2021
+2:32 PM
+
+Dear hiring manager.
+
+Thank you for your job posting.
+I have read your requirements carefully and I feel that I am suitable for your job.
+As a senior developer,  my purpose is to deliver successful projects to clients.
+I have over 7 years of experience in the JavaScript frameworks(angular, react, vue, etc) So It's easy for me to complete your project.
+I would greatly appreciate the opportunity to meet with you and further discuss my qualifications and your requirements in detail. Thank you for your consideration, and I look forward to speaking with you soon.
+
+Best regards,
+Ben
+
+
+
+---React
+
+Thursday, January 21, 2021
+2:33 PM
+
+Dear Client,
+Thanks for your job posting.
+ 
+As an experienced react.js developer, I am very excited to meet the react project.
+I think I have robust skills in the react framework.
+I can complete your project within a short time with high quality.
+I hope for a discussion in detail over that chat.
+Kind regards!
+ 
+Yurii.
+
+
+
+---React
+
+Thursday, January 21, 2021
+2:33 PM
+
+Dear Client,
+Thanks for your job posting.
+I've read your requirements carefully and I feel that I can contribute to your project.
+I am a senior developer with having 6+ years of experience in responsive website design and development.
+I am well versed in technologies such as 
+Bootstrap4,
+JavaScript,
+CSS3, 
+HTML5, 
+React(react-redux, redux-saga, redux-thunk),
+React Native, 
+tailWind CSS
+Especially, I am familiar with Next.js and TailWindCSS which can rapidly build modern websites.
+Giving satisfaction to the customers is my sole purpose.
+Some of my projects are:
+    https://play.google.com/store/apps/details?id=com.wecarcarerntheme
+    https://play.google.com/store/apps/details?id=com.thecomplete.reactnative
+Don't hesitate to take a chance to discuss your project with me.
+Kind regards!
+Yurii.
+
+
+
+---Angular
+
+Thursday, January 21, 2021
+2:33 PM
+
+Dear Client,
+Thanks for your job posting.
+I have just read your requirements carefully and I feel that I can complete them within a short time with high quality.
+The website will have a Modern and Eye-catching Design.
+It will fulfill all your requirements including being fully responsive to work in every environment.
+Having over 4 years of expertise in Angular, I can contribute to your project as much as possible in a short time with high quality.
+Customer satisfaction is my sole purpose.
+I am familiar with all versions of Angular and I used to teach it to the others.
+Some of my projects are:    
+    https://play.google.com/store/apps/details?id=io.yoga5.app
+    https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.deliveryapp
+Don't hesitate to take a chance to discuss your project with me.
+Kind regards!
+Yurii.
+
+
+---PHP
+
+Thursday, January 21, 2021
+2:33 PM
+
+Dear Hiring Manager,
+
+Thanks for your job posting. I am an experienced PHP programmer.PHP is my Top skill.
+I just read your requirements carefully and I feel that I can complete your project with PHP. I am a senior developer with having 9+ years of experience in responsive website design and development.
+I am well versed in technologies such as Core PHP, Laravel, CodeIgniter,  CakePHP, WordPress, Magento, symphony,Drupal, Zend, Yii, CSS3, Python, JavaScript and Bootstrap. 
+Especially, I am familiar with Laravel and React/Next which can rapidly build modern websites.
+That's the brief information about me. please let me know if you have any questions and I will be happy for trying to answer all of your technical and other questions. 
+I hope for a discussion in detail over the meeting.
+
+Best regards
+Ben
+
+Yurii
+
+
+
+---JavaScript
+
+Thursday, January 21, 2021
+2:33 PM
+
+Dear Hiring Manager
+
+Thanks for your job posting. 
+I read your requirement details and I am ready to build a website.
+As a senior developer, I have over 7 years of expertise in JavaScript frameworks.
+- front-end frameworks
+      Angular, React, Vue, Bootstrap, jQuery
+- back-end frameworks
+     Express.js, Nest.js, Python, Ruby on Rails, and ASP.NET
+Especially, I am very familiar with React and Nextjs over GraphQL.
+Here are Websites URLs I made before : 
+Customer satisfaction is my sole purpose.
+I can contribute to your project asap with high quality.
+I would greatly appreciate the opportunity to meet with you and further discuss my qualifications and your requirements in detail. Thank you for your consideration, and I look forward to talking to you soon.
+ 
+Best Regards
+Ben
+
+Yurii.
+
+
+
+---Database
+
+Thursday, January 21, 2021
+2:34 PM
+
+Dear Client,
+Thanks for your job posting.
+ 
+I've checked your requirement details and I am a good fit for yours.
+As a senior developer, I have over 8 years of expertise in Databases.
+I have worked in a bank for 4 years and there, I only worked with Databases.
+- Databases list
+    MongoDB, 
+    Oracle, 
+    MySQL, 
+    MariaDB
+I am versed in Database design and Query customizing.
+I can contribute to your project asap with high quality.
+Don't hesitate to take a chance to discuss your project with me.
+ 
+Best Regards!
+Yurii.
+
+
+
+---WordPress
+
+Thursday, January 21, 2021
+2:34 PM
+
+Dear Client,
+Thanks for your job posting. 
+I have read your requirements carefully and I feel that I can contribute to your project.
+In order to contribute to your project, it is necessary to update the theme or shortcode or pages.
+As a CMS framework developer, I have over 5 years of experience in updating and rebuilding the WordPress & Magento projects.
+So no problem to complete your project.
+Some of my projects are:
+           https://oplportal.co.il/                
+           https://www.mrdrco.com/
+           https://www.viari.in/
+           https://www.stelladot.com/
+           https://highkey.com/
+           https://www.faballey.com/
+           https://www.districtloom.com/
+Don't hesitate to have a discussion about your project with me.
+ 
+Kind regards!
+ 
+Yurii.
+
+
+
+---Shopify
+
+Thursday, January 21, 2021
+2:34 PM
+
+Dear client.
+Thank you for your job posting.
+I read your job detail and then I feel that I am a good fit to your project.
+I have over 5 years of experience in Shopify. I am familiar with shopify building, developing shopify plugin and shopify design.
+You said that you are going to change such small code in your job description.
+This means that you want to change some modules or some functionalities or some design which you couldn't change in your admin dash board.
+However, I think that it's not big problem for me to deliver complete one to you.
+Here are my shopify projects URLS:
+https://ha.ndso.me/
+https://shop.ohauwines.co.nz/
+https://www.tonysonline.co.nz
+https://highkey.com/
+https://www.districtloom.com/
+I hope for a discussion in detail over the chat.
+ 
+Kind regards!
+ 
+Yurii.
+
+Hi, I hope you will be able to safe and healthy from the COVID-19.
+Just as soon as I saw your job posting, I've carefully studied every detail of your project.
+I can declare proudly that I am an experienced Shopify theme developer with more than 5 years of experience. I would like you to know that I am very much interested in your project considering all your requirements.
+
+I have successfully completed a Shopify project recently with works of (proudpoppyclothing.com.au, www.bangnbody.com)
+My client was very much satisfied with my work as every previous client of mine.
+
+If you want to check out more details on my skills and successfully finished jobs, you can check my profile on upwork.com.
+https://www.upwork.com/freelancers/~0152f38b02a6fc1827
+
+Styling the frontend Shopify theme should be a fairly easy and straightforward job for me.
+Also, I have a deep understanding of Liquid, HTML, CSS/SCSS, JavaScript, etc.
+
+I am available on Email and Skype 24/8. If you want to communicate with me, please feel free to message me or call if necessary. I would also like you to know that I am going to be available for at least 40+ hours per week and I am looking forward to starting your project as soon as possible according to you with your permission.
+
+Thank you for your consideration.
+
+
+
+
+Hello, Just as soon as I saw your job posting, I've carefully studied every detail of your project.
+I can declare proudly that I am an experienced Shopify theme developer with more than 4+ years of experience. I would like you to know that I am very much interested in your project considering all your requirements.
+
+I have successfully completed a Shopify project recently with works of ()
+My client was very much satisfied with my work as every previous client of mine.
+
+Styling the frontend Shopify theme should be a fairly easy and straightforward job for me.
+I have a deep understanding of Liquid, HTML, CSS/SCSS, JavaScript, etc.
+Also I am very experienced in Shopify plus with Ruby script, CRO(Conversion Rate Optimization) AB test, Speed/SEO optimization with Lighthouse, GTM, CRO pixel code integration, Shopify app integration(ReCharge, Metafield, Product filter & search app), etc.
+I am very familiar with Git, Themekit, Gulp, etc.
+
+I would also like you to know that I am going to be available for at least 40+ hours per week and I am looking forward to starting your project as soon as possible according to you with your permission.
+
+Thank you for your consideration.
+Alex.
+
+https://vape-juice.myshopify.com(Empire theme)
+https://heathen-store.myshopify.com(Brooklyn theme)
+https://smarter-kitchen.myshopify.com(Bold theme)
+https://akirabeauty.com(Boundless theme)
+https://familygiftsco.com(Booster theme)
+https://sexyboxers.myshopify.com(Mobilia theme)
+https://oaay.myshopify.com(Enhanced theme)
+
+My name is Lifuji and I live in kowloon in Hong Kong.
+I have graduated The Hong Kong University of Science and Technology from 2009 to 2014 and get Bachelor of Computer Science.
+after graduating university I have worked 2 companies as web developer.
+My latest role in Varicent Software Limited is shopify developer.
+well, now I am going to tell you about my shopify experiences.
+As you know Shopify is a subscription-based software that allows anyone to set up an online store and sell their products.
+It offers a way to quickly launch your business and start selling to your customers, wherever they are.
+And also Shopify provides you with a variety of tools to help you to set up and run your business.
+I have developed many shopify projects including https://smarter-kitchen.myshopify.com, https://akirabeauty.com and so on.
+https://smarter-kitchen.myshopify.com (Bold theme)
+https://akirabeauty.com (Boundless theme)
+
+I have strong knowledge of liquid programming language and strong hands to Install & Customize new Shopify theme.
+Also I am very experienced in Shopify plus with Ruby script, CRO(Conversion Rate Optimization) AB test, Speed/SEO optimization with Lighthouse, GTM, CRO pixel code integration, Shopify app integration(ReCharge, Metafield, Product filter & search app), etc.
+I am very familiar with Git, Themekit, Gulp and so on.
+During the past developing I have faced many other ecommerce platform such as Magento, woocommerce, Bigcommerce and so on.
+If you interest me I can work soon and will keep high communication with you anytime.
+Thanks for your listeing.
+
+---Mobile
+
+Thursday, January 21, 2021
+2:34 PM
+
+Dear Client,
+Thanks for your job posting. 
+I have read your requirements carefully and I feel that I can contribute to your project.
+I am a senior developer with having 10+ years of experience in mobile app development.
+I am well versed in technologies such as 
+           Android,
+           Ios,
+           React Native, 
+           Ionic,
+	flutter
+Some of my projects are:
+          https://play.google.com/store/apps/details?id=io.yoga5.app
+          https://play.google.com/store/apps/details?id=io.instamobile.chat.rn
+          https://play.google.com/store/apps/details?id=com.wecarcarerntheme
+          https://play.google.com/store/apps/details?id=com.thecomplete.reactnative
+          https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.restaurantapp
+          https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.deliveryapp
+          https://play.google.com/store/apps/details?id=com.wecarcarerntheme
+          https://play.google.com/store/apps/details?id=com.thecomplete.reactnative
+I hope for a discussion with me about your project.
+ 
+Kind regards!
+ 
+Yurii.
+
+
+
+---Scrape & Extension
+
+Thursday, January 21, 2021
+2:34 PM
+
+Dear Client,
+Thanks for your job posting.
+As an experienced web developer, I am familiar with web scraping and chrome extension.
+I used to scrape from the website by using chrome extension.
+I used to build the chrome extension with JavaScript or JS frameworks.
+Also, I used Python and JS frameworks in scraping.
+I think I have robust skills in them.
+I am ready for you right now.
+Will wait for your reply. Thanks again.
+Kind regards!
+ 
+Yurii.
+
+--cover in angel
+Dear Sir.
+It is with great interest and enthusiasm that I respond to the Full Stack Developer position that you are currently advertising. My background and commitment to achieving the highest quality align exceptionally well with this position.
+My work experience and skills have shown me the value of professionalism and have equipped me with the knowledge and work ethic required for long-term success in the field. My background encompasses developing and maintaining front-end and back-end applications to meet the clients needs. Over the past 8 years, I have organized software development lifecycle, prepared specifications, determined operational feasibility, wrote well-designed, testable, and efficient code, and integrated software components into a fully functional software system. I excel at evaluating and deploping software tools, processes, and metrics, and providing support and consulting on software systems usage.
+I will be available at your convenience and look forward to your call in discussing my qualifications in detail.
+Thank you for your time and consideration.
+Sincerely, Fangguo Qiang
+
+=====================================
+ From: Forever (MyoHyang/DESKTOP-R8FHHSA/192.168.108.141/Administrator-<a60a854c8a9f1505>)
+  at Fri Aug 27 05:12:20 2021
+-------------------------------------
+I am Li Haoming and 27 years old.
+I graduated from the several universities during 9 years. During that time, I had Bachelor of Science and Master of Computer Applications (MCA).
+My major is Computer Science.
+I have worked in some companies in many countries.
+There, I worked as a Full-stack developer who designed database architecture and made the workflow.
+I enjoy overcoming the challenges. 
+Of course, until now, there were no special obstacles and challenges for me.
+So I don’t know exactly how difficult it is to overcome challenges.
+But I just want to improve my skills and tech skills by overcoming challenges.
+Of course, now trying to get the job from your company is also another challenge for me.
+But I will do my best to work with you.
+And also I enjoy working with teamwork. I mean, I prioritize and value the team spirit as the most important thing.
+
+I have worked in full stack engineering for my entire over 8 years career and my commitment to critical thinking and attention to detail have gotten me to where the frontend developer in IT Partner company.
+I am a self-motivated, energetic collaborator who thrives on working in a fast-paced environment with tight deadlines and have a desire to stay updated on current and new technologies.
+So I have engaged as a role of leader in this company, contributing to make an innovative result and better progress. 
+
+Due to pandemic, I had to end up my role in this company earlier, and now I am working as Frontend developer via Remote.
+I have keen insight into what it takes to run a successful project because I have taken part in different successful projects across from startup to multi vendors.
+
+My career goal is to have an opportunity to learn and grow my skills from a technical standpoint, and a chance to learn more skills over time. After reading the job description for this role, it sounds like this could be a good match for what I’m looking for.
+I'd love to work for the company, innovative and ready to expand.
+I think this company is exactly the one what I am looking for.
+
+
+------------------------------------------------------------------
+5. What interested you about our position?
+
+I am interested in this job because I thought it has many things for me to do.Before facing this time, I had so many things to investigate.
+First the roles of your company are React, React Native, Graphql.
+I have rich experiences with those skills.
+6 years React and React Native experiences and 5 years Angular experiences.
+So I can complete any task that you give me and I can bring a lot of profit to your company.
+Second, I guess there will be so many talented tech developers and engineers who have high skills and technologies. I just want to learn a lot from them and compare my skills with them.
+Third, there will be great managers who have high skills and leadership including you.
+In the past, I studied business once. I just want to learn a lot from you.
+I mean if you accept me, I will do my best for you and me
+I love working in a startup, Until now, I have worked in companies which have pretty been growing up and expanded, thus what I did in that role is kind of maintenance and tend to be passive in terms of creativity.
+But this company has really much things valuable to do like Ronday Virtual Reality and I was so excited it is all what I would do.
+I really want to contribute the prosperity and development of this company from starting point as one of pioneers.
+
+--------------------------------------------------
+2. what is your greatest achievement?
+
+In my most recent role, I was responsible for managing the orientation and training programs for our new hires. Unfortunately, the content was not so good. While it was necessary information for our new hires to have, we found that only 40% of new hires did not complete the training. We were also receiving poor feedback on the course evaluation forms. I decided to rework the training program to make it more relevant and interesting, based on industry best practices and feedback on the evaluation forms. Today, 90% of participants complete the training and provide positive feedback about their experience. My manager was so pleased with the improvements that he asked me to lead a training seminar.
+
+
+Final Round:
+strengths and weaknesses, asking and answering questions, and personality and professionalism.
+
+https://careersidekick.com/final-interview-questions/
+
+----------------------------------------------------------------------
+3. What are you passionate about?
+
+My biggest passion is learning about software and technology. I was fascinated with computers from a young age,so I decided to study Computer Science in college and I’ve continued in that direction since graduating. It’s been a great choice for me! As a full stack software developer, I get to shape how the internet is progressing and how websites are evolving, and that’s exciting to me.
+
+-----------------------------------------------
+4. What motivates you?
+
+What motivating me to choose a developer career was time to have an opportunity to read the
+book "How to become a Genius".
+I wanted to become Genius like others, and I have a role model in deep mind.
+It was versatile according to specific events or stories that I have ever encountered.
+Thus, they  sometimes became Neil Armstrong or Albert Einstein.
+While reading this book, I was moved about the expression, "Where I am today is my starting
+point. Who I am today is my starting point. My failures and successes of the past, my fears and
+hopes of the future are all shadows. Today is my reality, and I’ll use it to create my world"
+Based on this query, I reminded myself what my strength is and what to do.
+That lead me to here, over 8  years of developer career.
+
+-----------------------------------------------------------------
+7.  What did you like most and least about your last job?
+
+-Least
+
+The company was growing quickly, so it was a bit disorganized and I often had multiple supervisors and senior team members giving me different instructions. However, I think this was a great opportunity to improve my ability to work under pressure and my communication skills. For example, I had to learn to communicate clearly and quickly to clarify with my managers and team if there was a conflict in what I had been asked to do. I enjoyed most aspects of the job and I ended up liking working in such a fast-paced environment in the end. It just took some adjustment. It was a great learning experience for me.
+
+-Most
+
+I love how the company offered learning opportunities and seemed to care about helping their employees develop and grow professionally. They had weekly lunch meetings where we’d learn a new topic, they offered tuition reimbursement, and all of the senior leadership team was very approachable and supportive.
+
+
+-----------------------------------------------------------------
+
+8. What sets you apart from other candidates?
+
+I have a great willingness to learn. I think many prospects may expect to be hired for this position and not continue to cultivate their skills, but that is a priority.
+
+
+-----------------------------------------------
+
+9. Do you have other interviews happening?
+
+Honestly, I’m interviewing with a few companies for a range of positions, but they all come down to delivering an excellent experience.
+But this company is really valuable to work for me and great fit in my interest.
+So I am really focusing on the interview with this company.
+
+
+------------------------------------------------------------------
+11. Do you want to tell us anything else about you?
+
+I don’t have anything else to add. I feel like we covered the important topics, and I was able to share the key pieces of my background and how they’d help me perform well in the role. It was great learning about the role, 
+[and the opportunity to do XYZ in this position sounds especially interesting.]
+
+
+---------------------------------------------------------------
+13. What is my strength and weakness?
+
+- strength
+
+As mentioned, I have experience working as a frontend, backend side and full-stack developer.
+Of course, I don’t know exactly if this experience will be helpful  or not for your work.
+However, in this period I have so many experiences in NodeJS, their frameworks or libraries including Nuxt, Next, React, Vue.
+If you accept me, I will try to give you great satisfaction and success.
+You probably will be satisfied.
+There is one sample for you. You probably know or not about splitchek.com.
+I attended the development of this site as project manager.
+Last year we developed this site.
+Of course, now this site is being modified and maintained. The frontends was developed with React and Backend side was developed with node js and GraphQL.
+Anyway, I can cooperate and cowork with teammates because I had so many experiences as a project manager and Full-stack developer.
+
+
+My strength is creativity and tenacity. Being able to gather client’s requirements and translate those into an engaging, effective and unique website is what has helped me obtain over 400 positive reviews.
+I love failure, learn from failure and how to deal with failure next time.
+thus being optimistic , never give up to realize dream.
+
+- weakness
+
+I always try to avoid confrontation, in both my personal and professional life. This caused me to compromise sometimes on the quality of my work or what I needed to complete a project just to keep the peace. This became a real problem when I became a manager. One of the most critical aspects of managing people is telling them what they need to hear and not what they want to hear. I recognized this weakness and had been actively working to voice my opinions constructively and helpfully for the betterment of the team.
+
+
+
+
+-----------------
+
+10. What is your desired salary?
+
+My current salary is $70,000, which is the maximum compensation that my employer allows for this position. As this job has a greater number of responsibilities, I'm seeking a 10% increase in my salary and asking for $80,000.
+
+
+------------------------------------------------
+
+6. Where do you see yourself in 5 years?
+
+In five years, I would like to become an engineering lead or team manager. As a web developer with your business, I know I would be able to take on a number of wide-ranging responsibilities related to the company’s web efforts. This would help me refine my knowledge of all areas of the company’s stack, which could then be applied in a managerial role further down the line.
+
+
+----------------------------------
+-------------------------------------------------------
+
+12. Do you have any questions?
+
+- What does it take to do the job really well?
+- What are the greatest challenges?
+- It is important to me to get into my area of ??responsibility quickly. Will there be someone who will familiarize me with everything and show me everything in the first few weeks? 
+- Can you talk about company culture?
+- What is the greatest challenge facing the company?
+- What are the company's goals for the upcoming year?

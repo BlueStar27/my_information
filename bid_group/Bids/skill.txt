@@ -1,0 +1,15 @@
++ 3 years experience in React.js, React Native and and thorough understanding of its core principles
++ Strong proficiency in JavaScript
++ Experience with popular React.js workflows (such as Flux or Redux)
++ Experience with Google Maps (editions, improvements, etc.)
++ Strong HTML and HTML5 experience
++ Fluent in CSS (specifically CSS3)
++ Experience in cross-browser development
++ Familiarity with RESTful APIs
++ Knowledge of modern authorization mechanisms, such as JSON Web Token
++ Familiarity with modern front-end build pipelines and tools
++ Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
++ Ability to understand business requirements and translate them into technical requirements
++ Familiarity with code versioning tools (such as Git, SVN)
++ Experience with making responsive web-design
++ Fluent English speaker

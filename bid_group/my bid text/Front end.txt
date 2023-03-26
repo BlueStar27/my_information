@@ -1,0 +1,50 @@
+Dear Client,
+
+Thanks for reviewing my proposal.!!!
+
+I have read your job description carefully and I am glad to tell you that I am a Front end engineer.  So I can definitely help you in your project and can start right now once you hire me.
+
+I am a great match for this position. I have more the 8 years of experience in Development and delivering top notch web applications. 
+I am strong at JavaScript frameworks and libraries and especially I have deep understanding of ReactJS including React Hook, React redux and React DOM manipulation.
+I am also very familiar with Typescript, RESTful API, JSON web token, NPM and Webpack.
+I have also rich experience of using Git, Jira, Docker and database management system like MySQL, GraphQL, PostgreSQL, MongoDB.
+I am a dynamic, energetic and flexible and I am a suitable candidate according to your requirements.
+
+Front End Scripting :
+- WordPress
+- CMS like Gatsby, cloudflare, wordpress
+- REACT.js/Next.js
+- Node.js
+- Angularjs
+- Redux
+- JavaScript/JQuery
+- Bootstrap
+- AJAX
+- Vue.js/Nuxt.js
+- HTML 5 /CSS 3
+- Typescript/JavaScript
+- MySQL/GraphQL/PostgreSQL/MongoDB
+- RESTful API
+- Webpack
+- Git/Jira
+- Cross Browser Compatibility
+
+This is the websites that I have developed.
+
+https://vervoe.com 
+http://www.leadconcept.com/
+https://reverb.com/
+https://www.chewy.com/
+
+I assure you about the quality work and delivery of the project on time.
+
+Your satisfaction with the project is my top priority!
+So, I will complete your project on time and within your budget.
+I'm waiting for your kind response.
+I will do my best for you.
+
+Response Awaiting!
+Best Regards,
+James
+
+

@@ -1,0 +1,162 @@
+======================Front-End Development=======================
+Hi, I am looking for the right person to assist in building my website. 
+The right candidate will posses skills to build a platform that I can assist in inputting the right data, pictures and blogs.
+It will be a joint venture to build for my business. 
+Timeframe to assign the right candidate will be 3 - 4-week selection process.
+
+=======================Front End Developer (REACT)===================
+About us
+
+Stipple is the first no-code platform for high performance computing applications. Stipple helps teams across all industries build powerful high performance computing applications and empowers them to create faster and less expensive software solutions for the problems they are working on.
+
+JOB DESCRIPTION
+
+We are looking for a highly skilled JavaScript Developer to join our core product team. You will be responsible for creating the front-end of our web application: a powerful and user friendly drag-and-drop application builder.
+
+You will also work with the backend team to find the best solutions for frontend-backend integrations, implement and maintain the asset pipeline, and set up the frontend build workflows.
+
+The ideal candidate has strong communication skills, can work autonomously and make technical and strategic decisions, and has the ability to create maintainable, performant, testable, reusable, and scalable code.
+
+Remote work, regardless of location, on a CET +/- 6 hours timezone.
+
+Responsibilities
+- Collaborate with backend developers and designers to create a user friendly, cross-browser, responsive and performant drag-and-drop application builder.
+- Create maintainable, performant, reusable, and scalable modern frontend code (JavaScript, CSS, HTML).
+- Contribute to front-end architecture decisions.
+
+Skills and Qualifications
+- 5+ years of professional experience developing JavaScript applications.
+- Highly proficient in modern JavaScript, HTML, and CSS.
+- Extensive knowledge and understanding of JavaScript.
+- Experience with main JavaScript libraries (especially Vue.js - it’s part of our stack).
+- Good understanding of browser rendering and performance.
+- Experience with front-end tools (e.g. Grunt, Gulp, Babel, Yarn, Webpack, etc).
+- Proficient in using Git as a source control system.
+- English language proficiency (spoken and written).
+
+Offer and benefits
+Possibility of long-term contract after 3 months project-based collaboration with:
+- Competitive salary
+- Early employee shares/stock
+- Remote work with option to join central office in Barcelona
+
+======================Smart Contract Developer for NFT Project==========================
+Hello, we're currently launching a new NFT project that will integrate both physical and digital products. 
+We need a smart contract developer that can deploy the NFTs on-chain but also develop a raffle system for pre-mint. 
+We also need to integrate the NFTs with a physical object (more details provided later on). 
+The job is quite demanding.
+But someone with previous experience in nft development will find it quite straightforward, if you're one of them, be sure to send us your proposals. 
+If we're satisfied with the results, it'll most likely lead to a long-term relationship.
+
+Looking forward to your proposals!
+
+==================Backend Developer - Node.js, Postgres, etc.===================
+- No agencies please
+- Node.js, Postgres, Vue 3, Quasar, Tailwind CSS, others
+Experienced in - payment/services, SSO, inventory management, dashboards, user management, responsive (PWA), etc.
+
+Admin (back office) development
+  - develop/implement features/functionalities for website and admin/BO
+  - development/implementation of payment/inventory/SSO/tracking/other service
+  - define/implement db changes
+  - other admin/BO development work
+
+Website development
+  - implement the UI-UX/content/functionalities for various pages
+  - implement SSO/payment/tracking/chat/call/etc.
+  - implement other website changes
+
+=============================Figma to HTML============================
+We have a web design created in Figma that is being converted into Bootstrap 5 by our designer. 
+We need another helping hand to wrap it up faster.
+
+You should be familiar with:
+- HTML, CSS3, SCSS
+- Bootstap 5
+- Responsive Design
+
+We would prefer someone who is ready to join immediately.
+
+And If this works out well, there would be a lot of work in the future.
+
+=============================Figma react design front end===========================
+i want o create a website in this scripthttps://github.com/HashLips/hashlips_nft_minting_dapp ,
+i need someone who can clone then customise the site to our needs i can provide tailwing premium pack and freepik premium graphics plus content, 
+you only have to take care of layouts,.ineed it btw 24 and 56 h
+
+============================Looking to convert single page in responsive HTML=========================
+I am looking to convert single page in HTML. It needs to be real quick and I need page to be delivered ASAP.
+
+It will open 100% time in mobile so it needs to be mobile responsive.
+
+Page is attached to have a look.
+
+https://www.upwork.com/att/download/openings/1473669012470489088/attachments/b500c56a-6719-40a1-90a8-d0ff86a0ec83/download
+
+==============================Looking For Highly Skilled Front-End Developmer================================
+I am looking for a MERN full stack developer to finish up a website that's for gaming and esports.
+
+Figma is fully completed.  The 2 most important values are clean code and communication.  I have a Github that you can review previous commits and continue working with.  The following requirements listed:
+
+1. MERN full stack in typescript
+2. API integrations, both social and stats from games.  I have all the accounts ready, and can show you
+3. Launched via Firebase, Heroku, DO or anything viable for upscaling.
+4. Experience with gaming or esports is an absolute bonus.  If you don't with these, any web app with API integrations pulling data with arrays or bulk calls would be great
+5. GraphQL experience
+6. Creativity and initiator.  I like feedback and experience, so communication and input would be appreciated
+
+=============================React or Vue Developer needed======================================
+We have created solidity contracts and need a UI developer to wire up our interface. 
+The current react dev is going away for 2 weeks or more and need someone to take over from him. 
+The project is up on github.  
+ABI is ready to go. 
+Should be a days worth of work for someone with good experience but future work will be needed for phases upcoming after.
+
+Thanks
+
+=================================React front end development========================================
+Take data from an api and display it.
+This will involve some array arithmetic, so you need to be good with matrices
+
+we can use whatever you want to fetch the data
+
+so what this will be:
+- fetch data from api
+- display data
+- update array
+- display updates
+- post array to api
+
+============================Senior React Developer with HTML Canvas exp==============================
+Looking for an experienced React engineer who can take a fairly complex mock and set of requirements and build the feature into an existing web application.
+
+Must be expert with
+- Typescript, JavaScript, React
+- React Query, Hooks, Context
+- Material UI
+- HTML Canvas
+
+Must have
+- Good problem solving skills
+- Basic knowledge with AWS, Docker, and Python/Flask to run the project locally
+
+
+
+REACT WEB DEVELOPER(S) , with a minimum of two years experience in a similar or equivalent role.
+
+QUALIFICATIONS:
+
+=================React Web Developer========================
+We are looking for a couple of well-rounded front-end web developers with a strong knowledge of developing websites and web apps with Javascript framework, preferably ReactJS. Familiarity with Static Site Generators (Gatsby or Nextjs) and JS Frameworks like ReactJS are required. Experience with headless CMS, headless eCommerce, and Jamstack, in general, would be great assets to bring to the company.
+
+Other technical skills will come in handy.
+
+Knowledge of a back-end programming language Node.js (Javascript)
+
+API (RESTful Services) and GRAPHQL API development
+
+Data migration, transformation, and scripting
+
+Proficient understanding of code versioning tools like Git, Bitbucket
+
+Experience with building microservices on AWS

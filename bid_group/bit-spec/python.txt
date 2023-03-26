@@ -1,0 +1,36 @@
+------python & Django & vue-------
+
+Dear client,
+Thank you for your job post.
+I can help with upcoming challenges because I have succeeded at building several websites using Vue and Django Framework and tools(ex: Selenium, Rest API, Flask, Redis, Elastic Search ...).
+I have 7+ years of experience in Python, Django and Vue and
+- Created multiple web apps from scratch, starting from the requirements gathering to the application design and development, always using Django and Flask as my primary stack.
+- Integrated several database (PostgreSQL, SQLite, MySQL, NoSQL DB) and workers(redis, elasticsearch).
+
+Additionally, my teamwork is great and I adapt to new environment so fast and get along with other team members.
+
+If you award me, I'd be very happy to discuss this further and get started for you immediately.
+It would be great if we can schedule a meeting soon to discuss the project.
+
+Past work
+https://presli.in.ua
+https://finpro.group
+https://www.istoki.mk.ua
+That's the brief information about me. please let me know if you have any questions and I will be happy for trying to answer all of your technical and untechnical questions
+Best regards,
+Yurii
+--------Bot-------
+Dear client
+Thank you for your job posting.
+I have checked about your requirements and my skills are a match.
+
+I have 6+ years of expertise in Python, Data Analysis, object detection, web scraping, chatbot, Node.js.
+I am very familiar with Bot developement by Python.
+
+My working history includes the trading Bots on the muti-blockchain platform(Ethereum, BSC, Polygon, Solana,...)
+
+I'll do my best to complete your project.
+I am looking forward for your reply.
+Kindly regards,
+Yurii
+--------------------------

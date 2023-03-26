@@ -1,0 +1,42 @@
+Windows Update
+Windows Update Medic Service  //
+Update Orchestrator Service
+
+Windows search
+AnyDesk  //
+Windows Time
+Geolocation Service
+Windows Biometric Service  //
+Phone Service
+Print Spooler//
+Radio Management Service (manual -> disabled)
+Intel(R) HD Graphics Control Panel Service//
+Touch Keyboard and Handwriting Panel Service
+Payments and NFC/SE Manager//
+FlexNet Licensing Service//
+Microsoft Search Service//
+Data Usage
+Connected Devices Platform Service//
+Windows Push Notifications System Service
+World Wide Web Publishing Service//
+
+
+Disabled Windows Components : (Disabled in GPEdit.msc)
+	Computer Configuration -> Administrative Template -> Windows Components -> 
+Microsoft Cortana 
+	-> Search -> Allow Cortana (ORG : not Configured -> Disabled)
+Microsoft Help and Support
+	-> Edge UI -> Disable Help Tips (ORG : not Configured -> Enabled)
+Windows Update
+	-> Windows Update ->  Configure Auto Update (ORG : not Configured -> Disabled)
+Microsoft Store
+	-> Store -> Turn off the store application (ORG : not Configured -> Enabled)
+	-> Store -> Turn off Automatic download and installation of updates(ORG : not Configured -> Enabled).
+My Phone (Your Phone)
+	Computer Configuration -> Administrative Template -> System -> Group Policy -> Phone-PC linking on this device
+	(ORG : not Configured -> Disabled)
+
+Removing cortana : in POWERSHELL : "Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage"
+
+Task Scheduler 
+	Disable update services, and/or helper services.

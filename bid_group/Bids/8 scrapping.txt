@@ -1,0 +1,16 @@
+Hi, I am a scraping /data engineer with 6 years of experiences.
+I have completed lots of similar projects using frameworks and libraries such as scrapy, selenium, requests, beautifulsoup, lxml and etc. I cam make bot using python, This bot can scrape data from websites automatically and control all process inn website including inputing data & clicking button. I am a honest expert and gurantee the promise for deadline and quality.
+Please see these sites:
+https://cricos.education.gov.au/default.aspx
+https://www.ocado.com/products/nescafe-gold-blend-instant-coffee-12005011
+Here I extracted the necessary data and stored the database or exported csv or displayed on python GUI program. 
+If you want, I can make any kinds of program. Thank 
+
+
+Hi, there. I wish you are doing well. I think you would better use Python for web scraping.
+I have vast experiences of scraping datas using BS4, Beautiful Soup, scrapy, selenium, requests, lxml and etc
+First, I will make web scraper with python.
+Second, I will Pick the urls from dataset of pdf or excel.
+And then scrap the data from websites and export data to excel files.
+I will do my best to satisfy you with the wonderful result.
+Looking forward your response...

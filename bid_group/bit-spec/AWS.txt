@@ -1,0 +1,6 @@
+What are the advantages of AWS?
+With AWS, you receive a virtual environment that lets you load the software and services your application requires. This eases the migration process for existing applications while preserving options for building new solutions.
+
+
+AWS Benefits and Advantages. User-friendly. Flexible. Secure. Cost-effective. Reliable. Scalable and Elastic. Highly Performant.
+Disadvantages of AWS. Limitations. Lack of Experts. Price Variations. General Issues.

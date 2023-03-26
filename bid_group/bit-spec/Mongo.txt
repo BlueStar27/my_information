@@ -1,0 +1,7 @@
+
+Because it is non-relational, data management is easy and large-capacity can be managed.
+
+비관계형이므로 자료관리가 쉽고 대용량을 관리할수 있다.
+
+However, if the search engine is not used well, speed and quality cannot be guaranteed.
+그러나 검색엔진을 잘 사용하지 않으면 속도와 질을 보장할수 없다.

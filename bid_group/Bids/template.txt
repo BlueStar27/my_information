@@ -1,0 +1,19 @@
+I am very happy when my client satisfies 100%.
+Dear Client. How are you?
+Your post caught my eyes so read it carefully. And I'm really interested and even excited about your project because your required skills really fit me.
+I dare say I'm the best match for your project and I can do it perfectly.
+To introduce myself, I'm a senior fullstack dev with over 11 years experience and my best skill is JS frameworks such as MERN/MEAN/MEVN. And I really really have much experience in third-party services such as AWS(lambda, dynamodb, s3...), firebase(social auth, push notification, real-time database), google maps and so on.. You know php/html/css/js are basic skills for a web dev and CI/Laravel is also what I'm very familiar with.
+and then I have experiences of 5 YEARS with WORDPRESS.
+I have also lived with Android/mobile for 3 years.
+No need to talk much, right?
+Let me show you some of my past works and want your advice.
+- https://firelux.io/ (Bootstrap, Laravel, mysql)
+- https://floating-wave-22382.herokuapp.com/product_list.html (Pixel-perfect static html/css/js)
+- https://www.gamefront.com (&Vue 2.5.7)
+- https://modifi.com (nodejs, React, bootstrap, mysql, material 2.0)
+- https://boostr.com (angular, angular-material 2.0)
+- https://updated-card-editor.herokuapp.com/ (Canvas + Typescript)
+-https://jupiterx.artbees.net/accountant/ https://www.portotheme.com/wordpress/porto/finance/ -https://themes.muffingroup.com/be/finance
+
+I'm waiting for your kind reply here.
+Thanks.

@@ -1,0 +1,45 @@
+Hi, I've seen your requirement.
+The last bot that I built was for Thinkorswim(this app working with https://www.tdameritrade.com/)
+Also I've built bot for various traiding site(https://www.fidelity.com, https://www.tradestation.com, https://www.webull.com)
+I can build app or webapp whatever you want.
+The most important thing is to research the market price in real time to catch the best selling and buying moment.
+Your project can be build  with Python-Pyqt5-Websocket(or API) or Django-Celery-API.
+To complete your project I need to use RestfulAPI or websocket and celery work and etc.
+I have huge experience in Trading.
+I'm ready whenever you are.
+Thanks.
+
+
+
+Hi, I've seen your requirement.
+The last bot that I built was for Binance(this app working with https://www.binance.com/)
+Also I've built bot for various traiding site(https://www.bitmart.com/, https://www.gate.io/, https://www.huobi.com/)
+I can build app or webapp whatever you want.
+The most important thing is to research the market price in real time to catch the best selling and buying moment.
+Your project can be build  with Python-Pyqt5-Websocket(or API) or Django-Celery-API.
+To complete your project I need to use RestfulAPI or websocket and celery work and etc.
+I have huge experience in Trading.
+I'm ready whenever you are.
+Thanks.
+
+
+
+
+Hi, I've seen your requirement.
+I have built a lot of betting app - those working with https://www.betfair.com/, https://smarkets.com/, https://www.matchbook.com/, https://www.bet365.com/ and so on.
+I can build betting-bot as app or webapp whatever you want.
+The most important thing is to catch the best betting moment by examining the betting rate in real time.
+To complete your project I need to use RestfulAPI or websocket and celery work and etc.
+I'm ready whenever you are.
+Thanks.
+
+
+
+Hi, I've seen your requirement.
+I am australia betting app expert - those working with www.pointsbet.com.au, www.ladbrokes.com.au, www.sportsbet.com.au, www.tab.com.au, www.bbet.com.au, www.texbet.com.au, www.jimmybet.com.au, www.tabtouch.com.au and so on.
+I can build betting-bot as app or webapp whatever you want.
+The most important thing is to catch the best betting moment by examining the betting rate in real time.
+To complete your project I need to use RestfulAPI or websocket and celery work and etc.
+I'm ready whenever you are.
+Thanks.
+

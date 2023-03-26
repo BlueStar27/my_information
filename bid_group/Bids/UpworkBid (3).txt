@@ -1,0 +1,485 @@
+Hello, I'm Vlad from Ukraine
+
+The tech stack you described is exactly what I'm working on so I'd be glad to help you.
+
+I am experienced Frontend developer with more than 6 years of Web development. I am proficient in React + Redux/MobX/Apollo but also have a lot of experience with different libs and frameworks that could match your requirements. In additional please check my LinkedIn page: https://kmpv.me/SwzKni
+
+All the best,
+Chris.
+
+-Do you have any questions about the job description?
+
+Do you have design ready? If not I'd like to mention that I'm a part of enthusiastic Ukrainian freelancers group experienced in Web development. If you need not Frontend work only we can take design prototyping or specific backend work as well. Where it supposed to be hosted? Do you need any help with domain, hosting once it's ready to be in prod?
+
+-Do you have suggestions to make this project run successfully?
+
+As for technology stack I'd suggest to use React (probably Gatsby) with Strapi.io CMS integration as an admin panel (it's written with a NodeJS). This will allow you to easily edit and maintain the website in future and/or find person to help you.
+
+-What challenging part of this job are you most experienced in?
+
+I don't see any challenges in here :)
+
+
+-What part of this project most appeals to you?
+
+React using react hooks I think & using of the docker.
+
+
+-What past project or job have you had that is most like this one and why?
+
+I think the most similar is this one but much more simpler – http://mylastattempt.com/ It's also a simple band (rock band could be a company :) ) landing but client didn't want to apply any admin panel to it so it's simply react.
+
+
+-------------------------------------------------
+
+
+
+I have developed this website on and reactjs from scratch and currently working on it
+www.savahapp.com
+
+I have 4+ years of experience developing websites frontend and backend, I already have created too many react components, Every developer has experience with the database.
+Please check these websites which might help you to understand my abilities:
+www.discountshah.com
+www.alghanifabrics.com
+
+Though I'm new to Upwork platform, my company is doing Website/mobile app projects for 7+ years. We are a small team of website and mobile app developers working together on client projects. Our company managers are working for clients and they have a great job success of 90 to 100%.
+
+If you need your website convenient then you are reading the right proposal.
+Thank you for reviewing the letter, I'll look forward to hearing from you for further process.
+
+Regards,
+Bilal,
+Webkola solutions.
+
+
+
+-Do you have any questions about the job description?
+
+Which kind of website you have?
+
+-Do you have suggestions to make this project run successfully?
+
+Project requirement must be clarified, and communication with you to make this project successful.
+
+-What challenging part of this job are you most experienced in?
+
+Backend
+
+-What part of this project most appeals to you?
+
+All
+
+-What past project or job have you had that is most like this one and why?
+
+www.savahapp.com This website is developed on react js and I deployed it on AWS and use docker and Kubernetes.
+----------------------------------------------------------------------
+Do you have any questions about the job description?
+
+**QUERIES** - Can you please let me know when are you planning to hire and get the work started? - Can you let me know for how long do you require the services of the developer? - How many hours per week of support work do you require from the developer?
+
+Do you have suggestions to make this project run successfully?
+
+I would like to know more about the project requirement to answer the question.
+
+What challenging part of this job are you most experienced in?
+
+I would like to know more about the project requirement to answer the question.
+
+What part of this project most appeals to you?
+
+I would like to know more about the project requirement to answer the question.
+
+What past project or job have you had that is most like this one and why?
+
+**About Me** I am a full-stack senior Javascript developer and have 4+ years of experience in Node.js, React.js, Angular.js, Firebase, Typescript, Express.js, AWS, Sequelize, UI, UX and I also have expertise in various other Javascript-based technologies and Ajax, HTML5 & CSS3. I do test-drive development by using unit-test tools.
+
+Hello Sir/Madam,
+
+Greetings...I really appreciate the opportunity to bid on your project requirement :)
+
+**My UNDERSTANDING**
+
+- You are looking for a developer to create your company website using React and Node.
+
+My Github account:https://github.com/Reactongraph
+
+**Please check out the Web Apps below which I have built using the React.js/Redux**
+
+- Unibuddy
+https://unibuddy.co
+(React JS/GraphQL/Apollo, Unibuddy develops and implements solutions that allow prospects, applicants and offer holders to interact with current student ambassadors at their targeted courses.)
+
+- Educative
+https://www.educative.io
+(ReactJS, eLearning application who provides interactive Courses for Software Developers, where users can learn different technical courses)
+Youtube Link=> https://youtu.be/TdRVZ3dou-Q
+
+- Appliedai
+https://appliedai.com
+(ReactJS, It is the most comprehensive source of AI companies. It helps companies identify AI use cases & find the right vendors for their business.)
+
+- SabGo
+https://www.sabgo.com
+Youtube Link=> https://www.youtube.com/watch?v=SogcMeHb6mA&t=3s
+(ReactJS, Its location-based application where users can create special serial number which never changes even if staying place or store location are changing. Users can share their address with others simply by their address number which produces communication with agents and friends.)
+
+- FieldFolio
+http://fieldfolio.com
+(ReactJS, It is a cost-effective catalog and ordering system)
+Youtube Link: https://youtu.be/Aqc07hXOY6M
+
+- Stickyguide
+https://www.stickyguide.com
+(ReactJS complex UI interfaces, It has different UI which will be dynamically set the embedded containers as per parameters value.)
+Youtube Link: https://youtu.be/Fcd1aUFAz9U
+
+**CODE SNIPPET AND MOCK-UP TO REACT COMPONENT TRANSFORMATION SAMPLE**
+
+Please note that I have attached my code-snippet and a Mock-up for your review and consideration.
+
+React Component transformation from the mock-up provided=> https://148.72.64.237
+
+**About Me**
+
+I am a full-stack senior Javascript developer and have 4+ years of experience in Node.js, React.js, Angular.js, Firebase, Typescript, Express.js, AWS, Sequelize, UI, UX and I also have expertise in various other Javascript-based technologies and Ajax, HTML5 & CSS3. I do test-drive development by using unit-test tools.
+
+**MY SKILLS**
+
+| React Native | ReactJS | NextJS | ChartJS | ExpressJS | UnderscoreJS | Redux Thunk | Saga | Styled Components | React Router | Webpack | Flux | ES6 | NPM | Semantic UI | Airbnb eslint code | GraphQL | Bootstrap | HTML5 | CSS3 | JavaScript | MongoDB | Node | Firebase | MySql | SASS | Bootstrap | PostgreSQL | Amazon Web Services | Heroku | GitHub |
+
+**QUERIES**
+
+- Can you please let me know when are you planning to hire and get the work started?
+- Can you let me know for how long do you require the services of the developer?
+- How many hours per week of support work do you require from the developer?
+
+*********************************************************
+
+I would really like to get in a chat or a call with you to further understand your requirements. I am available from 10:00 AM through 10:00 PM IST, weekdays and please let me know in advance for meeting on weekends.
+
+Please let me know about it.
+
+Looking forward to your response
+
+Regards,
+Rohit
+-------------------------------------------------------------------------------
+Do you have any questions about the job description?
+
+We would like to see a full description of your project
+
+Do you have suggestions to make this project run successfully?
+
+Suggestions will appear during the discussion of the project.
+
+What challenging part of this job are you most experienced in?
+
+There are approx 20 full-stack developers in our company. We have extensive experience in the entire stack required for this project.
+
+What part of this project most appeals to you?
+
+We like to do the backend and frontend, and also when the customer is satisfied with the work, and we received payment :)
+
+What past project or job have you had that is most like this one and why?
+
+We have implemented more than 200 projects of varying complexity. Starting from sites, online stores and small extensions for browsers, ending with services for the automation of stock trading, online advertising and blockchain startups.
+
+Hello. We would like to get acquainted with the specific tasks of your project.
+
+Our developers are ready to discuss the details and create the assessment for you (approximate cost and work time).
+-------------------------------------------------------------------------------------------
+Do you have any questions about the job description?
+
+Can you share any design files or wireframes for your application? Do you want to develop your application from scratch or update it?
+
+Do you have suggestions to make this project run successfully?
+
+I would like to use some project management tool like Trello/Jira/Asana
+
+What challenging part of this job are you most experienced in?
+
+I am good at REST API development using NodeJS.
+
+What part of this project most appeals to you?
+
+React front-end development most appeals to me.
+
+What past project or job have you had that is most like this one and why?
+
+https://resultsonair.herokuapp.com (demo / demo) https://johnreed.fitness/ https://trustap.com/
+
+Greetings!
+
+As a senior Node/Express Developer, I have 4 years experience in Node backend development.
+I am very familiar with Node/express REST API Development, Swagger API Documentation/Design, SQL database management using ORM libraries (I am familiar with Sequelize).
+
+Also, I live and breathe with React/Redux over 3 years so I am well versed in best practices for React Component Development (such as HOC, stateless component, PureComponent, Smart/dumb component), 0Auth2/JWT authentication integration and UI Kit tools like MaterialUI/ANTD.
+
+I can start this job right away and can work for you full time (40 - 50hrs/week)
+Best regards,
+Omaro
+--------------------------------------------------------------------------------------
+Cover letter
+Do you have any questions about the job description?
+
+Are you a technical company? Please, introduce yourself a bit.
+
+Do you have suggestions to make this project run successfully?
+
+We should define clear requirements and move step by step along with them.
+
+What challenging part of this job are you most experienced in?
+
+All of them!
+
+What part of this project most appeals to you?
+
+All of them!
+
+What past project or job have you had that is most like this one and why?
+
+For your easy reference, I put the portfolio to our previous projects into my cover letter since Upwork makes the layout for answer input extremely terrible - it clears all the formatting and makes the links not clickable. Please check it out below.
+
+Hello, I am Alex
+
+I lead a team focused startups and MVP development and I have noticed that you are looking for senior React.js developer! The tech stack you mentioned is just what our team is focused on!
+
+We are ready to start your project right away.
+
+Here is our code-style: https://github.com/codempireio/code-style
+Also, we have contributed to community, there is our own library: https://github.com/codempireio/react-native-cluster-map
+
+For over 6 years we have built a number of projects of different complexity using React/ReactNative, Node.js, and Typescript for web and mobile.
+
+As a result, we have a portfolio where you can find some of our works.
+We launched it on Google Drive to keep your time: http://bit.ly/codempire
+
+Also, you can review a few feedbacks from our previous customers on Clutch: https://clutch.co/profile/codempire
+
+As proof of our competence, we are ready to provide you with a test-drive of our services, it is mean that we are ready to get done some scope of the work within 16 working hours. It is absolutely free of charge, how that sounds for you? What happens next, once we will make trial tasks you will evaluate our services and make a decision. Also, You will have DIRECT contact with our developer(s).
+
+I’d like to get acquainted and know more about your project. Examine all the requirements and scope of the work.
+Let’s have a kick-off video interview and discuss the upcoming work in detail.
+
+You may also share all the relevant materials and details with me in your reply message so I could examine them before the call (can sign an NDA if needed).
+
+Best,
+Alex Sashchuk
+--------------------------------------------------------------------------------------
+Do you have any questions about the job description?
+
+For sure, I need to get more details
+
+Do you have suggestions to make this project run successfully?
+
+we can talk about it on the call when I get more details
+
+What challenging part of this job are you most experienced in?
+
+JavaScript is my main stack so all the technologies are familiar
+
+What part of this project most appeals to you?
+
+I love working on front-end
+
+What past project or job have you had that is most like this one and why?
+
+most of my projects were made on this techs, I just need more info to compare correctly
+
+Hi guys!
+
+I am confident Full-stack developer and can help with creating your company website.
+Strong React/Redux, Node.js, MySQL and PostgreSQL skills are guaranteed, as well as experience with styled-components.
+
+I speak Russian so it will be easy to understand each other.
+
+Let's hop on a call to discuss all the details.
+
+Best,
+Roman
+
+P.S. Codemotion is a team of 80 JavaScript Ninjas, 120+ launched MVPs, $6M+ on Upwork.
+Upwork profile here -https://www.upwork.com/o/companies/~01ffc799308532df87/
+More projects here - https://codemotion.ninja/portfolio/
+---------------------------------------------order proposals 1----------------------------------------------------
+Cover letter
+Do you have any questions about the job description?
+
+I think, i've got the point. We can discuss further in voice conversation.
+
+Do you have suggestions to make this project run successfully?
+
+Good spec is key to success, that includes use/test cases, mockups/wireframes. The project methodology is important too. I prefer SCRUM.
+
+What challenging part of this job are you most experienced in?
+
+I'm proficient as a software architect: dividing a project into logical parts, loose coupling, sticking to DRY and KISS principles makes the development process a breeze.
+
+What part of this project most appeals to you?
+
+I am capable to do the whole thing
+
+What past project or job have you had that is most like this one and why?
+
+With React I did: * UNC - Social network to support university educational process similar to LinkedIn and Coursera. Members can message, create groups, share the content (photo, video, materials). Educational module allows teachers to build courses and share it with a student or group of students. Courses include tests and tasks that may be sent to the teacher’s review. * TradeCRM – CRM system for recruiting and training company. The system considers all stages of screening and testing of candidates. Candidate’s card includes more than 45 unique forms. Statistics and reporting modules allow getting detailed data on every step. All files and pictures are stored in a google drive. Also, the system allows notifying via e-mail and Telegram.
+
+Hi,
+I am a full-stack developer with 10 years of total experience and more than 8 years with JS. I have developed dozens of projects with React\Redux. I use Node.js (Express, Sails.js) during my whole career.
+
+I love API-first paradigm with JS framework like React.js/Redux on the frontend, Node.js for the backend for complex interface apps.
+
+One of my Node.js projects is an AWS cloud-based Video-On-demand streaming platform with microservices architecture for Cisco.
+
+With React I did:
+* UNC - Social network to support university educational process similar to LinkedIn and Coursera. Members can message, create groups, share the content (photo, video, materials). Educational module allows teachers to build courses and share it with a student or group of students. Courses include tests and tasks that may be sent to the teacher’s review.
+* TradeCRM – CRM system for recruiting and training company.
+The system considers all stages of screening and testing of candidates. Candidate’s card includes more than 45 unique forms.
+Statistics and reporting modules allow getting detailed data on every step. All files and pictures are stored in a google drive. Also, the system allows notifying via e-mail and Telegram.
+
+During my career, I have implemented over 100 projects. You can check more examples on https://beejee.org
+
+Best regards,
+Alek
+-------------------------------------------------------------------------------------------------
+Do you have any questions about the job description?
+
+- What functionalities would you like to include ? - Are you open to using a cloud infrastructure ?
+
+Do you have suggestions to make this project run successfully?
+
+I would suggest having a cloud infrastructure and setup from the beginning the structure of the project.
+
+What challenging part of this job are you most experienced in?
+
+I am a fullstack developer, I developed multiple web and mobile applications from scratch, both frontend and backend (node). Depending on the functionalities, some of them might be more challenging, however, I have adapted and was able to overcome any programming challenge I had so far.
+
+What part of this project most appeals to you?
+
+Using React for the frontend and NodeJS for the backend.
+
+What past project or job have you had that is most like this one and why?
+
+Web: https://mtscsoftware.com/projects/web-applications Mobile: https://mtscsoftware.com/projects/mobile-applications
+
+Hello, nice to e-meet you.
+
+I would like to introduce myself and to tell you more about my experience, please bear with me:
+
+I am a software engineer with 7+ years of experience in web and mobile application development. Since then I have been working with Javascript and different frameworks using it. I am a fullstack programmer, which means I create both server APIs and frontend for web and mobile applications.
+
+My technology stack expertise with years of experience and dozens of web and mobile apps built with:
+* React + Redux;
+* React Native + Redux;
+* ExpressJS, NodeJS & Typescript;
+* Vanilla Javascript;
+* Html & CSS;
+* Google Cloud Platform (Storage, Compute, AppEngine, functions, Maps etc)
+* Firebase (Firestore, authentication, messaging & notifications etc);
+* AWS (Cognito authentication, DynamoDB, ECS, S3, RDS, Lambda etc);
+* Docker;
+* Git;
+* UI / UX frameworks: AntDesign, Material, Bootstrap;
+
+You can find some of the products I am allowed to showcase (due to NDAs) at https://mtscsoftware.com
+
+In the past year I was the technical lead in developing a complex mobile application that connected to external hardware. I have coordinated 12+ developers and had the responsibility of delivering and fixing any issues we encountered, and they were many challenges that I overcome successfully.
+
+If considering me I am open for a call to discuss more about my experience and about the project scope and expectations.
+
+Thank you.
+-------------------------------------------------------------------------------------------------
+Do you have any questions about the job description?
+
+Yes, I have few queries relating the job description.
+
+Do you have suggestions to make this project run successfully?
+
+I would like to have detailed discussion over project specifications. After having complete project requirements, I can surely give you some better suggestions to make this project run successfully.
+
+What challenging part of this job are you most experienced in?
+
+I have hands of experience in developing custom web applications using React and Node.js.
+
+What part of this project most appeals to you?
+
+All the requirements mentioned in your job description lies within my capabilities that appeals me the most.
+
+What past project or job have you had that is most like this one and why?
+
+I have developed numerous amount of custom web applications using React and Node in my past working experience.
+
+===> Proficient with React Js (Redux,flux) / AngularJS 2/4/5 / Javascript,jQuery
+
+Dear Hiring Manager,
+Greetings !
+
+Thanks for posting this job ! As per your job description says, I found that you are looking for a Full Stack developer with expertise in Node.js and React.js I am glad to see this job posting as the skills + expertise mentioned in this job post lies within my capabilities that can prove to be the best contribution to your project. I am expertise in developing custom web applications using Node.js and React. I can surely assist you in developing your company website successfully.
+
+===> Let me quickly give you an overview about my expertise :
+
+I am passionate Senior Front end developer having more than 6+ years of experience and have in depth knowledge of developing web applications. As a creative minded individual and a professional Developer I have solid understanding of working with React.js / Vue.js / Angular (2, 4, 5, 6, 7), I have great experience of using HTML5, CSS, JavaScript/ jQuery/ Angular/ Redux HTML3/CSS3/Bootstrap. I also have a great deal of experience with database programming and administration in MySQL, PostgreSQL, MongoDB, and MS SQL server, Firebase. Familiar with various cloud technologies, such as Google App Engine (2 years) and Amazon AWS (3 year).
+
+Moreover, I have advanced knowledge of working with both Front end and back end development both and have extensive skills of developing custom web applications.Apart from this, I have worked on numerous amount of projects using React & Node.js as well. I have extensive working knowledge of streaming protocols such RTMP, RTSP, HLS, Smooth Streaming, DASH, etc. And, I am also very much familiar with FFmpeg/x264/x265. I have strong technical skills of working with Node.js JavaScript, C# ,C++ ,Jira, Bitbucket, Git, Cake PHP, CodeIgniter, PHP, HTML, HTML5, JavaScript, CSS, CSS3, Mobile App Development etc.
+
+Let me quickly share some recent projects with you related to similar technology stack :
+
+-> https://realadvisor.ch/
+-> http://www.renteasy.hk/
+-> http://palacart.com/
+-> https://mainst.biz/
+-> http://www.realtyexecutivesmex.com/
+
+Additionally, As a creative individual JavaScript developer I have hands on experience in designing, developing and maintaining web as well as mobile applications. I have extensive experience in Cross-browser HTML, CSS JavaScript coding to offer responsive website layouts to modern browsers and mobile devices and complete Software Development Life Cycle SDLC of Business applications in web and client-server environment and with Web Services like Soap and Restful.
+
+Above the beyond, I have advance knowledge of relational databases such as MySQL, Mongo DB and Oracle and an understanding
+of RESTful Web Services technologies such as Amazon(AWS) JSON, SOAP, and HTTP.Also, have extensive working experience in managing/transporting as well as development of API's. I am proficient in working with Docker as well.
+
+I would like to have an opportunity to discuss more about project specifications. I am available to work 40 hours per week and comfortable with both text based and audio conversations.
+
+I would be glad to provide you my services. Please let me know your preferred mode of communication. Also your time availability for the same.
+
+Thanks for your time and consideration !
+
+Best Regards,
+Neeraj
+-------------------------------------------------------------------------------------------------
+Do you have any questions about the job description?
+
+Do you consider using MongoDB as a database for your website?
+
+Do you have suggestions to make this project run successfully?
+
+I recommend setting up Continues Integration and make demos at least once a week
+
+What challenging part of this job are you most experienced in?
+
+Building the team. Establishing a development, code review, QA and deployment process
+
+What part of this project most appeals to you?
+
+Tech stack
+
+What past project or job have you had that is most like this one and why?
+
+Corporate website for Boonlogic. We used exactly the same Technology stack.
+
+Hi! I am Zulfat. I have a team of Senior JS developers if you need to hire more then 1 developer.
+We just finished working on Abbyy text analytics project which we built for ABBYY
+https://www.abbyy.com/en-eu/news/abbyy-launches-text-analytics-for-contracts/
+
+We have large experience in building highly scalable web services with Express+Mongodb and complex frontend applications with React/Angular/Typescript. I successfully worked with startups and enterprise.
+We have a very solid knowledge of Mongodb and PostgresSQL. I can do Linux system administration, can setup CI/CD through Jenkins or Teamcity.
+I am sure you'll be impressed with our work.
+Curious to learn more about your project!
+Please take a look at our previous projects:
+Eyespend: https://freelance.habr.com/projects/38865
+Boonlogic internal corporate site (Tempust) built with React and Redux: https://freelance.habr.com/projects/177844
+Me on linkedIn:
+https://www.linkedin.com/in/zulfat-ilyasov-280ab475
+Me on Freelancer
+https://www.freelancer.com/u/Zulfat
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
